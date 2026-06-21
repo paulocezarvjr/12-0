@@ -75,30 +75,6 @@ const View = (() => {
     const simDone = reveal >= st.results.length && st.results.length > 0;
     const pendingMsgs = ['Scouting the next opponent…', 'Veto in progress…', 'Players warming up…', 'Knife round…'];
 
-    // reveal-driven broadcast: stage fields + playoffs bracket (cosmetic context)
-    const bc = st.broadcast;
-    const revealedM = st.results.slice(0, reveal);
-    const simStages = bc
-      ? bc.stages
-          .map((stage) => {
-            const mine = revealedM.filter((m) => m.ph === stage.name);
-            if (!mine.length) return null;
-            const w = mine.filter((m) => m.win).length;
-            const l = mine.length - w;
-            const resolved = w >= 3 || l >= 3;
-            return {
-              label: stage.label, youRecord: w + '-' + l,
-              youAdvanced: resolved && w >= 3, youOut: resolved && l >= 3, live: !resolved,
-              myMatches: mine.map((m) => ({ opp: m.opp, score: m.score, win: m.win })),
-              teams: stage.teams,
-            };
-          })
-          .filter(Boolean)
-      : [];
-    const PO = ['QUARTERFINAL', 'SEMIFINAL', 'GRAND FINAL'];
-    const poRevealed = new Set(revealedM.filter((m) => PO.includes(m.ph)).map((m) => m.ph));
-    const simBracket = bc && bc.bracket && poRevealed.size ? bc.bracket.rounds.filter((r) => poRevealed.has(r.name)) : null;
-
     const sum = screen === 'result' || simDone ? Engine.summary(st.results) : { perfect: false, champion: false, record: '', title: '', sub: '' };
     const result = { perfect: sum.perfect, champion: sum.champion, eliminated: !sum.champion, record: sum.record, title: sum.title, sub: sum.sub };
     const resultRoster = roster.map((s) => ({
@@ -126,7 +102,6 @@ const View = (() => {
       canRerollYear: !st.rerollUsed && Engine.hasReroll(draw, 'year'),
       options,
       revealed, liveWins, liveLosses, simDone, simPending: !simDone,
-      simStages, simBracket,
       pendingLabel: pendingMsgs[reveal % pendingMsgs.length],
       result, resultRoster,
       shared: st.copied, notShared: !st.copied,
@@ -444,36 +419,34 @@ const View = (() => {
   }
 
   // ========================= SIMULATION =================================
-  function renderSim(v) {
-    const myPill = (m) => `<span style="${F_MONO};font-size:10px;padding:3px 7px;background:${m.win ? '#143026' : '#3a1414'};border:1px solid ${m.win ? '#1c3a30' : '#3a1c1c'};color:${m.win ? '#2ee6a0' : '#ff4d4d'};white-space:nowrap">${m.win ? 'W' : 'L'} vs ${esc(m.opp)} <span style="color:#9aa1ac">${esc(m.score)}</span></span>`;
-    const coRow = (t) => `<div style="display:flex;align-items:center;justify-content:space-between;gap:8px;padding:4px 9px;background:#0e1116;border-left:2px solid ${t.advanced ? '#2ee6a0' : '#3a4049'}">
-        <span style="${F_MONO};font-size:11px;color:#aab1bb;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${esc(t.name)}</span>
-        <span style="display:flex;align-items:center;gap:8px;flex:none"><span style="${F_MONO};font-size:11px;color:#717983">${esc(t.record)}</span><span style="width:6px;height:6px;border-radius:50%;background:${t.advanced ? '#2ee6a0' : '#ff4d4d'}"></span></span>
-      </div>`;
-    const stageCard = (s) => {
-      const badge = s.youAdvanced ? '<span style="color:#2ee6a0">&#10003; ADVANCED</span>'
-        : s.youOut ? '<span style="color:#ff4d4d">&#10007; ELIMINATED</span>'
-        : '<span style="color:#ff8a1f">&#9679; LIVE</span>';
+  function matchHtml(m) {
+    const anim = m.isLast ? 'animation:matchIn .42s ease both' : '';
+    const stampAnim = m.isLast ? 'animation:stampIn .45s ease both' : '';
+    if (m.win) {
       return `
-      <div style="background:linear-gradient(160deg,#15191f,#0f1216);border:1px solid #2a2f37;${CLIP(12)};padding:13px 15px;animation:matchIn .42s ease both">
-        <div style="display:flex;align-items:center;justify-content:space-between;${F_MONO};font-size:10px;letter-spacing:.2em;color:#6b727c;margin-bottom:10px"><span>${esc(s.label).toUpperCase()}</span>${badge}</div>
-        <div style="background:${s.youOut ? 'linear-gradient(100deg,#1a1011,#140d0e)' : 'linear-gradient(100deg,#101a16,#0e1316)'};border:1px solid ${s.youOut ? '#3a1c1c' : '#1c3a30'};${CLIP(8)};padding:9px 11px;margin-bottom:10px">
-          <div style="display:flex;align-items:center;justify-content:space-between;gap:10px"><span style="${F_BARLOW};font-weight:800;font-size:19px;color:#fff;text-transform:uppercase;letter-spacing:.02em">&#9733; Your Team</span><span style="${F_MONO};font-weight:700;font-size:17px;color:${s.youOut ? '#ff4d4d' : '#2ee6a0'}">${esc(s.youRecord)}</span></div>
-          <div style="display:flex;flex-wrap:wrap;gap:5px;margin-top:8px">${s.myMatches.map(myPill).join('')}</div>
+      <div style="display:flex;align-items:stretch;gap:0;border:1px solid #1c3a30;background:linear-gradient(100deg,#101a16,#0e1316);${CLIP(10)};overflow:hidden;${anim}">
+        <div style="width:54px;flex:none;background:#143026;display:flex;flex-direction:column;align-items:center;justify-content:center">
+          <span style="${F_BARLOW};font-weight:800;font-size:34px;color:#2ee6a0;line-height:.9;${stampAnim}">W</span>
         </div>
-        <div style="display:flex;flex-direction:column;gap:3px">${s.teams.map(coRow).join('')}</div>
+        <div style="flex:1;padding:12px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px;min-width:0">
+          <div style="min-width:0"><div style="${F_MONO};font-size:9.5px;letter-spacing:.14em;color:#5f8a78">${esc(m.phase)} · ${esc(m.bo)}</div><div style="${F_BARLOW};font-weight:700;font-size:23px;text-transform:uppercase;line-height:1;margin-top:2px;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">vs ${esc(m.opp)}</div></div>
+          <div style="${F_MONO};font-weight:700;font-size:21px;color:#2ee6a0;white-space:nowrap">${esc(m.score)}</div>
+        </div>
       </div>`;
-    };
-    const brSide = (name, isWin, mine) => `<div style="display:flex;align-items:center;justify-content:space-between;gap:6px;padding:5px 8px;background:${mine ? '#1a1207' : isWin ? '#101a16' : '#0e1116'};border:1px solid ${mine ? '#ff8a1f' : isWin ? '#1c3a30' : '#1c2026'}">
-        <span style="${F_MONO};font-size:11px;color:${isWin ? '#fff' : '#8b929c'};${mine ? 'font-weight:700;' : ''}white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${esc(name)}</span>${isWin ? '<span style="color:#2ee6a0;font-size:11px;flex:none">&#9656;</span>' : ''}
+    }
+    return `
+      <div style="display:flex;align-items:stretch;gap:0;border:1px solid #3a1c1c;background:linear-gradient(100deg,#1a1011,#160e10);${CLIP(10)};overflow:hidden;${anim}">
+        <div style="width:54px;flex:none;background:#3a1414;display:flex;flex-direction:column;align-items:center;justify-content:center">
+          <span style="${F_BARLOW};font-weight:800;font-size:34px;color:#ff4d4d;line-height:.9;${stampAnim}">L</span>
+        </div>
+        <div style="flex:1;padding:12px 14px;display:flex;align-items:center;justify-content:space-between;gap:10px;min-width:0">
+          <div style="min-width:0"><div style="${F_MONO};font-size:9.5px;letter-spacing:.14em;color:#8a5f5f">${esc(m.phase)} · ${esc(m.bo)}</div><div style="${F_BARLOW};font-weight:700;font-size:23px;text-transform:uppercase;line-height:1;margin-top:2px;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">vs ${esc(m.opp)}</div></div>
+          <div style="${F_MONO};font-weight:700;font-size:21px;color:#ff4d4d;white-space:nowrap">${esc(m.score)}</div>
+        </div>
       </div>`;
-    const brMatch = (m) => `<div style="display:flex;flex-direction:column;gap:3px;margin-bottom:9px">${brSide(m.top, m.winner === 'top', m.mine && m.top === 'YOUR TEAM')}${brSide(m.bot, m.winner === 'bot', m.mine && m.bot === 'YOUR TEAM')}${m.mine && m.score ? `<div style="${F_MONO};font-size:9px;color:#6b727c;text-align:center">${esc(m.score)}</div>` : ''}</div>`;
-    const bracketHtml = v.simBracket
-      ? `<div style="background:linear-gradient(160deg,#15191f,#0f1216);border:1px solid #2a3b46;${CLIP(12)};padding:13px 15px;animation:matchIn .42s ease both">
-          <div style="${F_MONO};font-size:10px;letter-spacing:.2em;color:#ff8a1f;margin-bottom:12px">PLAYOFFS BRACKET</div>
-          <div style="display:flex;gap:12px;overflow-x:auto;padding-bottom:4px">${v.simBracket.map((r) => `<div style="flex:1 1 0;min-width:148px"><div style="${F_MONO};font-size:9px;letter-spacing:.16em;color:#6b727c;margin-bottom:8px">${esc(r.label).toUpperCase()}</div>${r.matches.map(brMatch).join('')}</div>`).join('')}</div>
-        </div>`
-      : '';
+  }
+
+  function renderSim(v) {
     const pendingLoader = v.simPending
       ? `<div style="display:flex;align-items:center;gap:12px;border:1px dashed #262b33;padding:16px 16px;${CLIP(10)}">
            <div style="display:flex;gap:5px"><span style="width:8px;height:8px;background:#ff8a1f;border-radius:50%;animation:pulseDot 1s infinite"></span><span style="width:8px;height:8px;background:#ff8a1f;border-radius:50%;animation:pulseDot 1s .2s infinite"></span><span style="width:8px;height:8px;background:#ff8a1f;border-radius:50%;animation:pulseDot 1s .4s infinite"></span></div>
@@ -501,8 +474,7 @@ const View = (() => {
     </div>
   </div>
   <div style="display:flex;flex-direction:column;gap:11px">
-    ${v.simStages.map(stageCard).join('')}
-    ${bracketHtml}
+    ${v.revealed.map(matchHtml).join('')}
     ${pendingLoader}
   </div>
   ${doneBtn}

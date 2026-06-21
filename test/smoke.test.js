@@ -226,36 +226,6 @@ console.log('  champions=' + champions + ' (perfect=' + perfects + ', with-loss=
   passed += 3;
 }
 
-// 2f) cosmetic broadcast: stage fields + playoffs bracket
-{
-  const mk = (ph, win, opp, score) => ({ ph, bo: 'BO1', win, opp, score });
-  const champ = [
-    mk('SWISS STAGE 1', true, "NAVI '21", '13 – 5'), mk('SWISS STAGE 1', true, "FaZe '22", '13 – 7'), mk('SWISS STAGE 1', true, "G2 '23", '13 – 9'),
-    mk('SWISS STAGE 2', true, "MOUZ '24", '13 – 4'), mk('SWISS STAGE 2', true, "Spirit '24", '13 – 8'), mk('SWISS STAGE 2', true, "Liquid '19", '13 – 6'),
-    mk('SWISS STAGE 3', true, "Astralis '18", '13 – 10'), mk('SWISS STAGE 3', true, "Vitality '23", '13 – 11'), mk('SWISS STAGE 3', true, "NiP '14", '13 – 7'),
-    mk('QUARTERFINAL', true, "Fnatic '15", '2 – 0'), mk('SEMIFINAL', true, "SK Gaming '16", '2 – 1'), mk('GRAND FINAL', true, "Heroic '22", '2 – 1'),
-  ];
-  const bc = Engine.buildBroadcast(champ);
-  assert.strictEqual(bc.stages.length, 3, '3 swiss stage fields');
-  bc.stages.forEach((s) => {
-    assert.strictEqual(s.teams.length, 15, '15 cosmetic teams per field (16 with you)');
-    assert.ok(s.youAdvanced && s.youRecord === '3-0', 'you went 3-0 each stage');
-    assert.strictEqual(s.teams.filter((t) => t.advanced).length, 7, '7 others advance (8 total with you)');
-  });
-  assert.ok(bc.bracket && bc.bracket.rounds.length === 3, 'champion has a QF/SF/Final bracket');
-  assert.strictEqual(bc.bracket.rounds[0].matches.length, 4, '4 quarterfinals');
-  const fnl = bc.bracket.rounds[2].matches[0];
-  assert.ok(fnl.mine && fnl.winner === 'top', 'your winning Grand Final is the bracket final');
-
-  const out = [mk('SWISS STAGE 1', false, "x '20", '5 – 13'), mk('SWISS STAGE 1', false, "y '20", '7 – 13'), mk('SWISS STAGE 1', false, "z '20", '9 – 13')];
-  const bc2 = Engine.buildBroadcast(out);
-  assert.strictEqual(bc2.stages.length, 1, 'one stage field when out in stage 1');
-  assert.ok(!bc2.stages[0].youAdvanced && bc2.stages[0].youRecord === '0-3', 'shown as 0-3 eliminated');
-  assert.strictEqual(bc2.bracket, null, 'no bracket if you never reach playoffs');
-  assert.strictEqual(bc2.stages[0].teams.filter((t) => t.advanced).length, 8, '8 others advance when you are out');
-  passed += 10;
-}
-
 // 3) opponents are real squads shown with their era year (e.g. "NAVI '21")
 const r = Engine.computeResults(mockRoster);
 assert.ok(r.every((m) => /'\d{2}$/.test(m.opp)), 'each opponent shows its year, got: ' + r.map((m) => m.opp).join(', '));

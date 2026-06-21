@@ -176,86 +176,6 @@ const Engine = (() => {
     return matches; // won the Grand Final -> champion
   }
 
-  const YOU = 'YOUR TEAM';
-
-  /**
-   * Build the cosmetic "broadcast" around a run (generated ONCE per run): for
-   * each Swiss stage a 16-team field (you + your real opponents + fillers, with
-   * plausible advance/eliminated records — 8 advance, 8 out), and an 8-team
-   * single-elim bracket whose spine is your real path. Only YOUR results are
-   * real; everything else is flavor. View overlays your live progress on top.
-   */
-  function buildBroadcast(matches) {
-    const pool = shuffle(SQUADS).map((s) => s.team + " '" + String(s.yr).slice(2));
-    let pi = 0;
-    const used = new Set();
-    const nextName = () => {
-      let n, guard = 0;
-      do { n = pool[pi++ % pool.length]; } while (used.has(n) && ++guard < pool.length);
-      used.add(n);
-      return n;
-    };
-    const advRec = () => '3-' + Math.floor(Math.random() * 3); // 3-0..3-2
-    const outRec = () => Math.floor(Math.random() * 3) + '-3'; // 0-3..2-3
-
-    // ---- Swiss stage fields ----
-    const stages = [];
-    for (const name of ['SWISS STAGE 1', 'SWISS STAGE 2', 'SWISS STAGE 3']) {
-      const mine = matches.filter((m) => m.ph === name);
-      if (!mine.length) break;
-      used.clear();
-      const w = mine.filter((m) => m.win).length;
-      const youAdvanced = w >= 3;
-      let names = mine.map((m) => m.opp);
-      names.forEach((n) => used.add(n));
-      while (names.length < 15) names.push(nextName());
-      names = shuffle(names).slice(0, 15);
-      const othersAdvance = youAdvanced ? 7 : 8;
-      const teams = names
-        .map((nm, i) => ({ name: nm, record: i < othersAdvance ? advRec() : outRec(), advanced: i < othersAdvance }))
-        .sort((a, b) => b.advanced - a.advanced);
-      stages.push({
-        name, label: PHASE_NICE[name],
-        youRecord: w + '-' + (mine.length - w), youAdvanced,
-        myMatches: mine.map((m) => ({ opp: m.opp, score: m.score, win: m.win })),
-        teams,
-      });
-      if (!youAdvanced) break;
-    }
-
-    // ---- playoffs bracket (spine = your real path) ----
-    const pq = matches.find((m) => m.ph === 'QUARTERFINAL');
-    const psf = matches.find((m) => m.ph === 'SEMIFINAL');
-    const pf = matches.find((m) => m.ph === 'GRAND FINAL');
-    let bracket = null;
-    if (pq) {
-      used.clear(); used.add(YOU); used.add(pq.opp);
-      const rnd = (a, b) => (Math.random() < 0.5 ? a : b);
-      const qf = [
-        { top: YOU, bot: pq.opp, winner: pq.win ? 'top' : 'bot', mine: true, score: pq.score },
-        { top: psf ? psf.opp : nextName(), bot: nextName(), winner: 'top' },
-        { top: pf ? pf.opp : nextName(), bot: nextName(), winner: 'top' },
-        { top: nextName(), bot: nextName(), winner: rnd('top', 'bot') },
-      ];
-      const wn = (m) => (m.winner === 'top' ? m.top : m.bot);
-      const sf = [
-        psf ? { top: YOU, bot: psf.opp, winner: psf.win ? 'top' : 'bot', mine: true, score: psf.score }
-            : { top: wn(qf[0]), bot: wn(qf[1]), winner: rnd('top', 'bot') },
-        { top: wn(qf[2]), bot: wn(qf[3]), winner: pf ? 'top' : rnd('top', 'bot') },
-      ];
-      const fnl = [
-        pf ? { top: YOU, bot: pf.opp, winner: pf.win ? 'top' : 'bot', mine: true, score: pf.score }
-           : { top: wn(sf[0]), bot: wn(sf[1]), winner: rnd('top', 'bot') },
-      ];
-      bracket = { rounds: [
-        { name: 'QUARTERFINAL', label: 'Quarterfinals', matches: qf },
-        { name: 'SEMIFINAL', label: 'Semifinals', matches: sf },
-        { name: 'GRAND FINAL', label: 'Grand Final', matches: fnl },
-      ] };
-    }
-    return { stages, bracket, you: YOU };
-  }
-
   const PHASE_NICE = {
     'SWISS STAGE 1': 'Swiss Stage 1',
     'SWISS STAGE 2': 'Swiss Stage 2',
@@ -318,6 +238,6 @@ const Engine = (() => {
 
   return {
     fmt, fitBonus, eligible, rosterStrength, openSlots, isPicked, isPlaceable,
-    squadUseful, pickDraw, hasReroll, pickReroll, shuffle, score, computeResults, buildBroadcast, summary, shareText,
+    squadUseful, pickDraw, hasReroll, pickReroll, shuffle, score, computeResults, summary, shareText,
   };
 })();
