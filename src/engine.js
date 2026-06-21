@@ -14,27 +14,36 @@ const Engine = (() => {
   /** Format a rating the way HLTV shows it. */
   const fmt = (r) => r.toFixed(2);
 
-  /**
-   * Bonus to a player's effective rating when slotted into a given role.
-   * A natural AWPer in the AWP slot is great; a rifler forced onto AWP is
-   * penalised. Hitting a listed role gives a small fit bonus.
-   */
-  function fitBonus(tag, p) {
+  /** A role accepts one `tag`, or a `tags` array meaning any-of (e.g. support OR igl). */
+  const roleTags = (role) => (role.tags && role.tags.length ? role.tags : [role.tag]);
+
+  function fitBonusTag(tag, p) {
     if (tag === 'awp') return p.awp ? 0.12 : -0.08;
     if (tag === 'star') return p.roles.includes('star') ? 0.10 : 0;
     return p.roles.includes(tag) ? 0.08 : 0;
   }
+  /**
+   * Bonus to a player's effective rating in a role — the BEST fit across the
+   * role's accepted tags. A natural AWPer in AWP is great; a rifler forced onto
+   * AWP is penalised; a support/igl slot rewards whichever the player actually is.
+   */
+  function fitBonus(role, p) {
+    return Math.max(...roleTags(role).map((t) => fitBonusTag(t, p)));
+  }
 
-  /** Can this player legally fill a slot of the given role tag? */
-  function eligible(tag, p) {
+  function eligibleTag(tag, p) {
     if (tag === 'awp') return !!p.awp;
     if (tag === 'star') return p.roles.includes('star');
     return p.roles.includes(tag);
   }
+  /** Can this player legally fill a slot? True if they match ANY of its accepted tags. */
+  function eligible(role, p) {
+    return roleTags(role).some((t) => eligibleTag(t, p));
+  }
 
   /** Sum of effective ratings (rating + fit bonus) across filled slots. */
   function rosterStrength(roster) {
-    return roster.reduce((a, s) => a + (s.player ? s.player.r + fitBonus(s.role.tag, s.player) : 0), 0);
+    return roster.reduce((a, s) => a + (s.player ? s.player.r + fitBonus(s.role, s.player) : 0), 0);
   }
 
   /** Open (unfilled) slots, each tagged with its index in the roster. */
@@ -46,13 +55,13 @@ const Engine = (() => {
 
   /** Is there any open slot this player is eligible for? */
   function isPlaceable(roster, p) {
-    return openSlots(roster).some((s) => eligible(s.role.tag, p));
+    return openSlots(roster).some((s) => eligible(s.role, p));
   }
 
   /** Does this squad have at least one player who fits an open slot? */
   function squadUseful(roster, sq) {
     const open = openSlots(roster);
-    return sq.ps.some((p) => open.some((s) => eligible(s.role.tag, p)));
+    return sq.ps.some((p) => open.some((s) => eligible(s.role, p)));
   }
 
   /**

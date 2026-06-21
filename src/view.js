@@ -35,7 +35,7 @@ const View = (() => {
 
     const rosterSlots = roster.map((slot, i) => {
       const filled = !!slot.player;
-      const elig = pending ? Engine.eligible(slot.role.tag, pending) : false;
+      const elig = pending ? Engine.eligible(slot.role, pending) : false;
       return {
         idx: i + 1, slotIndex: i, label: slot.role.label, code: slot.role.code,
         filled,

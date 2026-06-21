@@ -193,6 +193,20 @@ console.log('  champions=' + champions + ' (perfect=' + perfects + ', with-loss=
   passed += 201;
 }
 
+// 2d) any-of role: the Firepower support/igl slot accepts either
+{
+  const fp = SETUPS.find((s) => s.id === 'firepower');
+  const hybrid = fp.roles.find((r) => r.tags && r.tags.includes('igl') && r.tags.includes('support'));
+  assert.ok(hybrid, 'firepower has a support/igl hybrid slot');
+  const igl = { n: 'i', roles: ['igl'], awp: false };
+  const sup = { n: 's', roles: ['support'], awp: false };
+  const rifler = { n: 'r', roles: ['rifle'], awp: false };
+  assert.ok(Engine.eligible(hybrid, igl), 'an IGL fits the hybrid slot');
+  assert.ok(Engine.eligible(hybrid, sup), 'a support fits the hybrid slot');
+  assert.ok(!Engine.eligible(hybrid, rifler), 'a pure rifler does NOT fit the hybrid slot');
+  passed += 3;
+}
+
 // 3) opponents are real squads shown with their era year (e.g. "NAVI '21")
 const r = Engine.computeResults(mockRoster);
 assert.ok(r.every((m) => /'\d{2}$/.test(m.opp)), 'each opponent shows its year, got: ' + r.map((m) => m.opp).join(', '));

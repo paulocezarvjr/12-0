@@ -92,7 +92,7 @@ const App = (() => {
     const draw = state.draw;
     if (!draw) return;
     const full = { ...p, team: draw.team, yr: draw.yr, ev: draw.ev, srcId: draw.id };
-    const elig = Engine.openSlots(state.roster).filter((s) => Engine.eligible(s.role.tag, p));
+    const elig = Engine.openSlots(state.roster).filter((s) => Engine.eligible(s.role, p));
     if (!elig.length) return;
     if (elig.length === 1) placeAt(elig[0].i, full);
     else setState({ pendingPick: full });
@@ -104,7 +104,7 @@ const App = (() => {
 
   function placeAt(slotIndex, full) {
     const roster = state.roster.slice();
-    if (roster[slotIndex].player || !Engine.eligible(roster[slotIndex].role.tag, full)) return;
+    if (roster[slotIndex].player || !Engine.eligible(roster[slotIndex].role, full)) return;
     roster[slotIndex] = Object.assign({}, roster[slotIndex], { player: full });
     const filled = roster.filter((s) => s.player).length;
     setState({ roster, pendingPick: null }, () => {
