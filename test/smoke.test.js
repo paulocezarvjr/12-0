@@ -204,6 +204,25 @@ console.log('  champions=' + champions + ' (perfect=' + perfects + ', with-loss=
   assert.ok(Engine.eligible(hybrid, igl), 'an IGL fits the hybrid slot');
   assert.ok(Engine.eligible(hybrid, sup), 'a support fits the hybrid slot');
   assert.ok(!Engine.eligible(hybrid, rifler), 'a pure rifler does NOT fit the hybrid slot');
+  // double AWP flex slot accepts an AWPer OR a rifler
+  const da = SETUPS.find((s) => s.id === 'double');
+  const flex = da.roles.find((r) => r.tags && r.tags.includes('awp') && r.tags.includes('rifle'));
+  assert.ok(flex, 'double AWP has an awp/rifle flex slot');
+  assert.ok(Engine.eligible(flex, { n: 'a', roles: ['awp'], awp: true }), 'an AWPer fits the flex slot');
+  assert.ok(Engine.eligible(flex, rifler), 'a rifler fits the flex slot');
+  assert.ok(!Engine.eligible(flex, igl), 'a pure IGL does not fit the flex slot');
+  passed += 7;
+}
+
+// 2e) no duplicate players: a nick already on the roster can't be drafted again
+{
+  const r = [
+    { role: { tag: 'rifle' }, player: { n: 'tarik', roles: ['rifle'], awp: false } },
+    { role: { tag: 'igl' }, player: null },
+  ];
+  assert.ok(Engine.isPicked(r, { n: 'tarik', roles: ['igl'], awp: false }), 'same nick detected as already picked');
+  assert.ok(!Engine.isPlaceable(r, { n: 'tarik', roles: ['igl'], awp: false }), 'an already-picked nick is not placeable');
+  assert.ok(Engine.isPlaceable(r, { n: 'gla1ve', roles: ['igl'], awp: false }), 'a fresh eligible player is placeable');
   passed += 3;
 }
 

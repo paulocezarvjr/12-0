@@ -55,10 +55,11 @@ const View = (() => {
     const options = draw && !allFilled
       ? draw.ps.map((p, pi) => {
           const placeable = Engine.isPlaceable(roster, p);
+          const picked = Engine.isPicked(roster, p);
           const selected = !!pending && pending.n === p.n;
           return {
             idx: pi, name: p.n, country: p.c, rating: Engine.fmt(p.r), awp: p.awp, initial: p.n[0],
-            roleTags: p.roles.join(' · ').toUpperCase(),
+            roleTags: p.roles.join(' · ').toUpperCase(), picked,
             selected, disabled: !placeable, available: placeable && !selected,
           };
         })
@@ -330,7 +331,7 @@ const View = (() => {
         <div style="padding:10px 11px 12px;flex:1;display:flex;flex-direction:column">
           <div style="${F_BARLOW};font-weight:700;font-size:21px;text-transform:uppercase;line-height:1;color:#8b929c;white-space:nowrap;overflow:hidden;text-overflow:ellipsis">${esc(opt.name)}</div>
           <div style="${F_MONO};font-size:9.5px;color:#4d545d;margin-top:4px">${esc(opt.roleTags)}</div>
-          <div style="margin-top:auto;padding-top:10px"><span style="${F_MONO};font-size:9px;letter-spacing:.06em;color:#717983;border:1px solid #232830;padding:3px 6px">NO OPEN SLOT</span></div>
+          <div style="margin-top:auto;padding-top:10px"><span style="${F_MONO};font-size:9px;letter-spacing:.06em;color:#717983;border:1px solid #232830;padding:3px 6px">${opt.picked ? 'ALREADY PICKED' : 'NO OPEN SLOT'}</span></div>
         </div>
       </div>`;
   }

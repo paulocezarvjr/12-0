@@ -90,7 +90,7 @@ const App = (() => {
   /** Pick a player from the current draw; auto-place if only one slot fits. */
   function selectPick(p) {
     const draw = state.draw;
-    if (!draw) return;
+    if (!draw || Engine.isPicked(state.roster, p)) return; // no duplicate players
     const full = { ...p, team: draw.team, yr: draw.yr, ev: draw.ev, srcId: draw.id };
     const elig = Engine.openSlots(state.roster).filter((s) => Engine.eligible(s.role, p));
     if (!elig.length) return;
@@ -104,7 +104,7 @@ const App = (() => {
 
   function placeAt(slotIndex, full) {
     const roster = state.roster.slice();
-    if (roster[slotIndex].player || !Engine.eligible(roster[slotIndex].role, full)) return;
+    if (roster[slotIndex].player || Engine.isPicked(roster, full) || !Engine.eligible(roster[slotIndex].role, full)) return;
     roster[slotIndex] = Object.assign({}, roster[slotIndex], { player: full });
     const filled = roster.filter((s) => s.player).length;
     setState({ roster, pendingPick: null }, () => {

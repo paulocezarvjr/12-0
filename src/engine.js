@@ -53,15 +53,19 @@ const Engine = (() => {
       .filter((s) => !s.player);
   }
 
-  /** Is there any open slot this player is eligible for? */
-  function isPlaceable(roster, p) {
-    return openSlots(roster).some((s) => eligible(s.role, p));
+  /** Is this exact player (by nickname) already on the roster? No clones. */
+  function isPicked(roster, p) {
+    return roster.some((s) => s.player && s.player.n === p.n);
   }
 
-  /** Does this squad have at least one player who fits an open slot? */
+  /** Can this player be drafted now — not already picked, and fits an open slot? */
+  function isPlaceable(roster, p) {
+    return !isPicked(roster, p) && openSlots(roster).some((s) => eligible(s.role, p));
+  }
+
+  /** Does this squad have at least one draftable player (fits a slot, not a dup)? */
   function squadUseful(roster, sq) {
-    const open = openSlots(roster);
-    return sq.ps.some((p) => open.some((s) => eligible(s.role, p)));
+    return sq.ps.some((p) => isPlaceable(roster, p));
   }
 
   /**
@@ -233,7 +237,7 @@ const Engine = (() => {
   }
 
   return {
-    fmt, fitBonus, eligible, rosterStrength, openSlots, isPlaceable,
+    fmt, fitBonus, eligible, rosterStrength, openSlots, isPicked, isPlaceable,
     squadUseful, pickDraw, hasReroll, pickReroll, shuffle, score, computeResults, summary, shareText,
   };
 })();

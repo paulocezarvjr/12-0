@@ -32,9 +32,9 @@ const SETUPS = [
     { label: 'Entry Fragger', code: 'ENT', tag: 'entry' },
     { label: 'Support', code: 'SUP', tag: 'support' },
     { label: 'Lurker', code: 'LRK', tag: 'lurker' } ] },
-  { id: 'double', name: 'Double AWP', sub: 'Two snipers · map control', roles: [
+  { id: 'double', name: 'Double AWP', sub: 'AWP + flex · map control', roles: [
     { label: 'AWPer', code: 'AWP', tag: 'awp' },
-    { label: '2nd AWP / Flex', code: 'AW2', tag: 'awp' },
+    { label: '2nd AWP / Flex', code: 'AW2', tags: ['awp', 'rifle'] },
     { label: 'In-Game Leader', code: 'IGL', tag: 'igl' },
     { label: 'Entry Fragger', code: 'ENT', tag: 'entry' },
     { label: 'Support', code: 'SUP', tag: 'support' } ] },
