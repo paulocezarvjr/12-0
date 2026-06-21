@@ -1,0 +1,1885 @@
+{
+  "id": "y2026",
+  "event": "IEM Cologne Major 2026",
+  "year": 2026,
+  "url": "liquipedia (manual)",
+  "teams": [
+    {
+      "team": "Vitality",
+      "placement": "Playoffs",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "apEX",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "ZywOo",
+          "c": "FRA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "flameZ",
+          "c": "ISR",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "mezii",
+          "c": "GBR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "ropz",
+          "c": "EST",
+          "awp": false,
+          "roles": [
+            "lurker",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Team Falcons",
+      "placement": "Grand Final",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "NiKo",
+          "c": "BIH",
+          "awp": false,
+          "roles": [
+            "igl",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "TeSeS",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "kyxsan",
+          "c": "MKD",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "m0NESY",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "kyousuke",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "FURIA",
+      "placement": "Grand Final",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "yuurih",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "KSCERATO",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "FalleN",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "molodoy",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "YEKINDAR",
+          "c": "LAT",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "NAVI",
+      "placement": "Playoffs",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "b1t",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Aleksib",
+          "c": "FIN",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "iM",
+          "c": "ROU",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "w0nderful",
+          "c": "UKR",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "makazze",
+          "c": "XK",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "The MongolZ",
+      "placement": "Playoffs",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "bLitz",
+          "c": "MNG",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Techno4K",
+          "c": "MNG",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "910",
+          "c": "MNG",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "mzinho",
+          "c": "MNG",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "cobrazera",
+          "c": "MNG",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "PARIVISION",
+      "placement": "Playoffs",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "BELCHONOKK",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Jame",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "nota",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "xiELO",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "zweih",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Aurora",
+      "placement": "Stage 3",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "XANTARES",
+          "c": "TUR",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "MAJ3R",
+          "c": "TUR",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Wicadia",
+          "c": "TUR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "woxic",
+          "c": "TUR",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "soulfly",
+          "c": "TUR",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "MOUZ",
+      "placement": "Stage 3",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "torzsi",
+          "c": "HUN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "xertioN",
+          "c": "ISR",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Jimpphat",
+          "c": "FIN",
+          "awp": false,
+          "roles": [
+            "support",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Brollan",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "lurker",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Spinx",
+          "c": "ISR",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "FUT Esports",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "dem0n",
+          "c": "UKR",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Krabeni",
+          "c": "XK",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "cmtry",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "dziugss",
+          "c": "LTU",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "lauNX",
+          "c": "ROU",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Team Spirit",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "magixx",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.13,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "zont1x",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "donk",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "lurker",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "sh1ro",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.2,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "tN1R",
+          "c": "BLR",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Astralis",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "Staehr",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "jabbi",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "HooXi",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "phzy",
+          "c": "SWE",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "ryu",
+          "c": "LTU",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "G2",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "huNter-",
+          "c": "BIH",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "HeavyGod",
+          "c": "ISR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "SunPayus",
+          "c": "ESP",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "matys",
+          "c": "SVK",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "NertZ",
+          "c": "ISR",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Legacy",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "latto",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "dumau",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "saadzin",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "n1ssim",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "arT",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "paiN",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "biguzera",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "nqz",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "snow",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "piriajr",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "v$m",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Monte",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "Gizmy",
+          "c": "GBR",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "afro",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "AZUWU",
+          "c": "GBR",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Bymas",
+          "c": "LTU",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Rainwaker",
+          "c": "BGR",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "9z",
+      "placement": "Stage 2",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "max",
+          "c": "URY",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "HUASOPEEK",
+          "c": "CHL",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "luchov",
+          "c": "ARG",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "meyern",
+          "c": "ARG",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "dgt",
+          "c": "URY",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "GamerLegion",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "Tauson",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "PR",
+          "c": "CZE",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "REZ",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "hypex",
+          "c": "POL",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Snax",
+          "c": "POL",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "B8",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "npl",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "esenthial",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "alex666",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "kensizor",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "s1zzi",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Heroic",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "yxngstxr",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "xfl0ud",
+          "c": "TUR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "nilo",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Chr1zN",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "susp",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "BetBoom",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "zorte",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Magnojez",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Boombl4",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "FL4MUS",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "d1Ledez",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "BIG",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "tabseN",
+          "c": "GER",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "JDC",
+          "c": "GER",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "gr1ks",
+          "c": "BLR",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "blameF",
+          "c": "DEN",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "faveN",
+          "c": "GER",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "M80",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "Swisher",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "slaxz-",
+          "c": "GER",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "s1n",
+          "c": "GER",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Lake",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "JBa",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "MIBR",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "brnz4n",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "insani",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "kl1m",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "LNZ",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "venomzera",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "SINNERS",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "beastik",
+          "c": "CZE",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "SHOCK",
+          "c": "CZE",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "kisserek",
+          "c": "POL",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "stressarN",
+          "c": "MKD",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "MoDo",
+          "c": "ROU",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "NRG",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "oSee",
+          "c": "USA",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "nitr0",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "br0",
+          "c": "DEN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Sonic",
+          "c": "ZAF",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Grim",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "TYLOO",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "JamYoung",
+          "c": "CHN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Moseyuh",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Mercury",
+          "c": "CHN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Jee",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Zero",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Sharks",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "gafolo",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "rdnzao",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "doc",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "koala",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "maxxkor",
+          "c": "ARG",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Gaimin Gladiators",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "JOTA",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "NEKIZ",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "felps",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "HEN1",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Luken",
+          "c": "ARG",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Team Liquid",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "NAF",
+          "c": "CAN",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "ultimate",
+          "c": "POL",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "siuhy",
+          "c": "POL",
+          "awp": false,
+          "roles": [
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "EliGE",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "malbsMd",
+          "c": "GTM",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    },
+    {
+      "team": "Lynn Vision",
+      "placement": "Stage 1",
+      "lowConfidence": true,
+      "players": [
+        {
+          "n": "westmelon",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "entry"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "z4kr",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "support"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "EmiliaQAQ",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "lurker"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "Starry",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        },
+        {
+          "n": "C4LLM3SU3",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": true,
+          "src": "liquipedia"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+JW	fnatic	1.26
+COLON	Reason	1.25
+Snax	UniversalSoldiers	1.22
+Hiko	Complexity	1.21
+znajder	fnatic	1.20
+flusha	fnatic	1.19
+Xyp9x	CPH Wolves	1.18
+seized	Natus Vincere	1.18
+dennis	LGB	1.16
+Nico	CPH Wolves	1.14
+f0rest	Ninjas in Pyjamas	1.13
+SmithZz	VeryGames	1.11
+GeT_RiGhT	Ninjas in Pyjamas	1.11
+cadiaN	Xapso	1.10
+Maniac	Recursive	1.10
+n0thing	Complexity	1.10
+friberg	Ninjas in Pyjamas	1.10
+shox	VeryGames	1.08
+Happy	Recursive	1.08
+SEMPHIS	Complexity	1.08
+AdreN	Astana Dragons	1.07
+twist	SK	1.06
+EXR	Reason	1.05
+dupreeh	CPH Wolves	1.04
+olofmeister	LGB	1.04
+markeloff	Astana Dragons	1.03
+pashaBiceps	UniversalSoldiers	1.03
+SKYTTEN	LGB	1.03
+Maikelele	LGB	1.02
+raalz	n!faculty	1.01
+Dosia	Astana Dragons	1.01
+apEX	Clan-Mystik	1.01
+KQLY	Clan-Mystik	1.01
+Xizt	Ninjas in Pyjamas	1.01
+NEO	UniversalSoldiers	0.99
+FeTiSh	CPH Wolves	0.99
+Ex6TenZ	VeryGames	0.97
+Fifflaren	Ninjas in Pyjamas	0.96
+ANGE1	Astana Dragons	0.96
+NBK-	VeryGames	0.93
+DaZeD	iBUYPOWER	0.93
+kennyS	Recursive	0.93
+karrigan	n!faculty	0.92
+ScreaM	VeryGames	0.92
+swag	Complexity	0.92
+KRIMZ	LGB	0.92
+aizy	Xapso	0.92
+GMX	Recursive	0.91
+Devilwalk	fnatic	0.91
+pronax	fnatic	0.91
+device	CPH Wolves	0.90
+Delpan	SK	0.89
+smF	Reason	0.87
+byali	UniversalSoldiers	0.87
+Uzzziii	Recursive	0.86
+gla1ve	n!faculty	0.85
+Pimp	n!faculty	0.84
+MSL	Reason	0.83
+LOMME	Reason	0.83
+ceh9	Natus Vincere	0.82
+cajunb	n!faculty	0.82
+anger	iBUYPOWER	0.80
+kUcheR	Astana Dragons	0.80
+AZK	iBUYPOWER	0.79
+centeks	Xapso	0.78
+Skadoodle	iBUYPOWER	0.76
+seang@res	Complexity	0.76
+Zeus	Natus Vincere	0.74
+kioShiMa	Clan-Mystik	0.74
+TaZ	UniversalSoldiers	0.72
+adreN	iBUYPOWER	0.72
+ultra	Xapso	0.65
+pita	SK	0.62
+tonyblack	Natus Vincere	0.60
+ioRek	Clan-Mystik	0.60
+HaRts	Clan-Mystik	0.59
+xelos	SK	0.54
+starix	Natus Vincere	0.52
+MODDII	SK	0.51
+robiin	Xapso	0.40

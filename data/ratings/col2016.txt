@@ -1,0 +1,81 @@
+coldzera	SK	1.38
+device	Astralis	1.28
+TACO	SK	1.25
+KRIMZ	fnatic	1.22
+FalleN	SK	1.19
+mixwell	OpTic	1.19
+fnx	SK	1.19
+s1mple	Liquid	1.18
+Edward	Natus Vincere	1.17
+WorldEdit	FlipSid3	1.17
+RUBINO	Dignitas	1.16
+seized	Natus Vincere	1.15
+EliGE	Liquid	1.15
+flusha	fnatic	1.15
+Xyp9x	Astralis	1.15
+olofmeister	fnatic	1.14
+RpK	G2	1.14
+k0nfig	Dignitas	1.13
+kennyS	Envy	1.13
+dennis	fnatic	1.12
+fer	SK	1.12
+cajunb	Dignitas	1.11
+GuardiaN	Natus Vincere	1.11
+gla1ve	Astralis	1.10
+ScreaM	G2	1.10
+nitr0	Liquid	1.09
+TaZ	Virtus.pro	1.09
+Snax	Virtus.pro	1.08
+AdreN	Gambit	1.08
+wayLander	FlipSid3	1.08
+markeloff	FlipSid3	1.07
+NiKo	MOUZ	1.07
+f0rest	Ninjas in Pyjamas	1.07
+JW	fnatic	1.07
+karrigan	Astralis	1.06
+flamie	Natus Vincere	1.06
+chrisJ	MOUZ	1.05
+pyth	Ninjas in Pyjamas	1.04
+GeT_RiGhT	Ninjas in Pyjamas	1.04
+Zeus	Natus Vincere	1.03
+mou	Gambit	1.01
+NEO	Virtus.pro	1.00
+dupreeh	Astralis	0.99
+apEX	Envy	0.99
+Xizt	Ninjas in Pyjamas	0.99
+pashaBiceps	Virtus.pro	0.99
+jdm64	Liquid	0.97
+byali	Virtus.pro	0.97
+B1ad3	FlipSid3	0.96
+hazed	CLG	0.95
+Hiko	Liquid	0.95
+Spiidi	MOUZ	0.95
+spaze	Gambit	0.94
+TENZKI	Dignitas	0.94
+pita	CLG	0.93
+SmithZz	G2	0.92
+shox	G2	0.91
+Shara	FlipSid3	0.91
+aizy	FaZe	0.89
+friberg	Ninjas in Pyjamas	0.89
+rain	FaZe	0.88
+bodyy	G2	0.86
+nex	MOUZ	0.86
+kioShiMa	FaZe	0.86
+NBK-	Envy	0.85
+jkaem	FaZe	0.84
+fox	FaZe	0.83
+MSL	Dignitas	0.83
+Dosia	Gambit	0.81
+RUSH	OpTic	0.78
+reltuC	CLG	0.76
+denis	MOUZ	0.76
+Happy	Envy	0.75
+hooch	Gambit	0.75
+NAF	OpTic	0.71
+zonic	Astralis	0.71
+koosta	CLG	0.66
+DEVIL	Envy	0.65
+stanislaw	OpTic	0.64
+tarik	CLG	0.62
+daps	OpTic	0.55

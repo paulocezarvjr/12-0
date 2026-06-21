@@ -1,0 +1,80 @@
+s1mple	Natus Vincere	1.47
+NiKo	G2	1.36
+ZywOo	Vitality	1.30
+electroNic	Natus Vincere	1.28
+b1t	Natus Vincere	1.27
+frozen	MOUZ	1.22
+sh1ro	Gambit	1.21
+broky	FaZe	1.18
+nicoodoz	Copenhagen Flames	1.16
+stavn	HEROIC	1.15
+KSCERATO	FURIA	1.15
+HObbit	Gambit	1.13
+yuurih	FURIA	1.13
+sjuush	HEROIC	1.13
+jabbi	Copenhagen Flames	1.12
+huNter-	G2	1.12
+roeJ	Copenhagen Flames	1.11
+Bymas	MOUZ	1.11
+nexa	G2	1.10
+YEKINDAR	Virtus.pro	1.09
+rain	FaZe	1.08
+Twistzz	FaZe	1.08
+hampus	Ninjas in Pyjamas	1.08
+Perfecto	Natus Vincere	1.08
+apEX	Vitality	1.06
+Boombl4	Natus Vincere	1.06
+El1an	Entropiq	1.05
+NAF	Liquid	1.05
+Zyphon	Copenhagen Flames	1.05
+amanek	G2	1.05
+nafany	Gambit	1.05
+ropz	MOUZ	1.05
+device	Ninjas in Pyjamas	1.05
+TeSeS	HEROIC	1.04
+Ax1Le	Gambit	1.02
+EliGE	Liquid	1.01
+Qikert	Virtus.pro	1.01
+VINI	FURIA	1.01
+buster	Virtus.pro	1.00
+refrezh	HEROIC	1.00
+dupreeh	Astralis	0.99
+cadiaN	HEROIC	0.99
+olofmeister	FaZe	0.99
+FL1T	Virtus.pro	0.99
+MICHU	Evil Geniuses	0.99
+shox	Vitality	0.99
+FalleN	Liquid	0.98
+Jame	Virtus.pro	0.98
+Brehze	Evil Geniuses	0.98
+Stewie2K	Liquid	0.96
+drop	FURIA	0.96
+Forester	Entropiq	0.96
+Lack1	Entropiq	0.96
+gla1ve	Astralis	0.96
+CeRq	Evil Geniuses	0.95
+Krad	Entropiq	0.95
+Spinx	ENCE	0.93
+misutaaa	Vitality	0.93
+arT	FURIA	0.93
+REZ	Ninjas in Pyjamas	0.93
+Magisk	Astralis	0.91
+dexter	MOUZ	0.91
+interz	Gambit	0.90
+HooXi	Copenhagen Flames	0.90
+JACKZ	G2	0.89
+acoR	MOUZ	0.89
+Kyojin	Vitality	0.88
+Lucky	Astralis	0.88
+Plopski	Ninjas in Pyjamas	0.88
+NickelBack	Entropiq	0.87
+Grim	Liquid	0.87
+oBo	Evil Geniuses	0.87
+karrigan	FaZe	0.81
+Xyp9x	Astralis	0.80
+LNZ	Ninjas in Pyjamas	0.79
+Snappi	ENCE	0.79
+hades	ENCE	0.77
+doto	ENCE	0.76
+dycha	ENCE	0.73
+stanislaw	Evil Geniuses	0.72

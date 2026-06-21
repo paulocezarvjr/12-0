@@ -1,0 +1,80 @@
+Snax	Virtus.pro	1.29
+flusha	fnatic	1.26
+pashaBiceps	Virtus.pro	1.23
+olofmeister	fnatic	1.23
+JW	fnatic	1.21
+Happy	LDLC	1.17
+f0rest	Ninjas in Pyjamas	1.15
+swag	iBUYPOWER	1.14
+TaZ	Virtus.pro	1.14
+byali	Virtus.pro	1.14
+cajunb	Dignitas	1.13
+GeT_RiGhT	Ninjas in Pyjamas	1.12
+s1mple	HellRaisers	1.12
+Troubley	Planetkey	1.11
+Edward	Natus Vincere	1.11
+KRIMZ	fnatic	1.10
+GuardiaN	Natus Vincere	1.10
+SEMPHIS	Cloud9	1.10
+Zeus	Natus Vincere	1.09
+kioShiMa	LDLC	1.08
+NBK-	LDLC	1.07
+Skadoodle	iBUYPOWER	1.07
+Maikelele	Ninjas in Pyjamas	1.07
+Xyp9x	Dignitas	1.05
+NEO	Virtus.pro	1.05
+dupreeh	Dignitas	1.04
+rallen	ESC	1.04
+friberg	Ninjas in Pyjamas	1.04
+shox	LDLC	1.03
+innocent	ESC	1.03
+device	Dignitas	1.03
+Spiidi	PENTA	1.03
+kUcheR	HellRaisers	1.02
+berg	FlipSid3	0.98
+nitr0	iBUYPOWER	0.98
+denis	PENTA	0.97
+seized	Natus Vincere	0.96
+n0thing	Cloud9	0.95
+Xizt	Ninjas in Pyjamas	0.95
+Hiko	Cloud9	0.94
+twist	FlipSid3	0.93
+desi	iBUYPOWER	0.91
+starix	Natus Vincere	0.90
+BENDJI	FlipSid3	0.90
+zende	FlipSid3	0.90
+cadiaN	CPH Wolves	0.90
+ANGE1	HellRaisers	0.90
+pronax	fnatic	0.90
+SZPERO	ESC	0.88
+FeTiSh	Dignitas	0.87
+kRYSTAL	PENTA	0.86
+SmithZz	LDLC	0.86
+AcilioN	myXMG	0.86
+shroud	Cloud9	0.86
+mouz	ESC	0.86
+seang@res	Cloud9	0.86
+MSL	myXMG	0.84
+AZK	iBUYPOWER	0.84
+fel1x	PENTA	0.81
+Kjaerbye	CPH Wolves	0.80
+Dosia	HellRaisers	0.79
+strux1	Planetkey	0.77
+MINISE	ESC	0.74
+markeloff	HellRaisers	0.73
+Pimp	CPH Wolves	0.71
+TENZKI	CPH Wolves	0.68
+gla1ve	CPH Wolves	0.67
+Friis	myXMG	0.67
+blackpoisoN	Bravado	0.66
+HUNDEN	myXMG	0.65
+dumz	FlipSid3	0.63
+stavros	Planetkey	0.61
+alexRr	Planetkey	0.61
+r0bs3n	PENTA	0.60
+nex	Planetkey	0.59
+smF	myXMG	0.53
+racno	Bravado	0.44
+Detrony	Bravado	0.38
+cent	Bravado	0.36
+deviaNt	Bravado	0.26

@@ -1,0 +1,80 @@
+device	Astralis	1.32
+s1mple	Natus Vincere	1.29
+Xyp9x	Astralis	1.29
+Magisk	Astralis	1.28
+coldzera	MIBR	1.26
+dupreeh	Astralis	1.25
+stanislaw	Complexity	1.20
+fer	MIBR	1.20
+flamie	Natus Vincere	1.20
+flusha	Cloud9	1.19
+Brehze	NRG	1.19
+autimatic	Cloud9	1.19
+nex	BIG	1.17
+NiKo	FaZe	1.15
+apEX	Vitality	1.14
+REZ	Ninjas in Pyjamas	1.14
+ZywOo	Vitality	1.14
+Jame	AVANGAR	1.13
+electroNic	Natus Vincere	1.13
+Twistzz	Liquid	1.13
+jks	Renegades	1.11
+woxic	HellRaisers	1.09
+nitr0	Liquid	1.08
+EliGE	Liquid	1.07
+xseveN	ENCE	1.06
+Edward	Natus Vincere	1.06
+Ethan	NRG	1.06
+Lekr0	Ninjas in Pyjamas	1.06
+gla1ve	Astralis	1.05
+jkaem	Renegades	1.05
+rain	FaZe	1.05
+f0rest	Ninjas in Pyjamas	1.05
+kioShiMa	Cloud9	1.04
+Stewie2K	Liquid	1.04
+GuardiaN	FaZe	1.03
+Qikert	AVANGAR	1.03
+AdreN	FaZe	1.02
+tabseN	BIG	1.01
+allu	ENCE	1.01
+Aerial	ENCE	1.01
+sergej	ENCE	1.01
+ShahZaM	Complexity	1.01
+FalleN	MIBR	1.01
+NAF	Liquid	1.00
+ISSAA	HellRaisers	1.00
+XANTARES	BIG	1.00
+RUSH	Cloud9	0.98
+Aleksib	ENCE	0.98
+kennyS	G2	0.97
+felps	MIBR	0.96
+tiziaN	BIG	0.96
+FugLy	NRG	0.96
+TACO	MIBR	0.95
+buster	AVANGAR	0.95
+Lucky	G2	0.95
+Rickeh	Complexity	0.94
+Gratisfaction	Renegades	0.94
+Zeus	Natus Vincere	0.94
+n0thing	Complexity	0.93
+JACKZ	G2	0.93
+dephh	Complexity	0.92
+RpK	Vitality	0.92
+olofmeister	FaZe	0.92
+CeRq	NRG	0.91
+gob b	BIG	0.91
+bodyy	G2	0.91
+GeT_RiGhT	Ninjas in Pyjamas	0.91
+AZR	Renegades	0.91
+NBK-	Vitality	0.88
+dennis	Ninjas in Pyjamas	0.88
+Liazz	Renegades	0.87
+ALEX	Vitality	0.86
+Zellsis	Cloud9	0.86
+daps	NRG	0.86
+shox	G2	0.85
+KrizzeN	AVANGAR	0.85
+fitch	AVANGAR	0.81
+HObbit	HellRaisers	0.80
+DeadFox	HellRaisers	0.71
+ANGE1	HellRaisers	0.63

@@ -1,0 +1,80 @@
+electroNic	Natus Vincere	1.31
+allu	ENCE	1.27
+Kjaerbye	North	1.27
+device	Astralis	1.26
+sergej	ENCE	1.24
+EliGE	Liquid	1.23
+Brehze	NRG	1.23
+ZywOo	Vitality	1.22
+s1mple	Natus Vincere	1.19
+Magisk	Astralis	1.15
+olofmeister	FaZe	1.15
+Jame	AVANGAR	1.14
+jkaem	Renegades	1.14
+Xyp9x	Astralis	1.14
+jks	Renegades	1.13
+ottoNd	CR4ZY	1.13
+CeRq	NRG	1.13
+buster	AVANGAR	1.11
+flamie	Natus Vincere	1.11
+dupreeh	Astralis	1.10
+Liazz	Renegades	1.10
+Aleksib	ENCE	1.10
+apEX	Vitality	1.09
+Twistzz	Liquid	1.09
+NAF	Liquid	1.09
+tarik	NRG	1.08
+amanek	G2	1.07
+Boombl4	Natus Vincere	1.07
+rain	FaZe	1.07
+gade	North	1.07
+stanislaw	NRG	1.06
+ALEX	Vitality	1.05
+valde	North	1.05
+Qikert	AVANGAR	1.05
+aizy	North	1.04
+woxic	MOUZ	1.04
+huNter-	CR4ZY	1.02
+EspiranTo	CR4ZY	1.02
+nexa	CR4ZY	1.02
+chrisJ	MOUZ	1.01
+Gratisfaction	Renegades	1.00
+RpK	Vitality	1.00
+NiKo	FaZe	1.00
+SANJI	AVANGAR	1.00
+Aerial	ENCE	0.99
+kennyS	G2	0.99
+ropz	MOUZ	0.98
+shox	G2	0.98
+AZR	Renegades	0.98
+JACKZ	G2	0.97
+xseveN	ENCE	0.97
+JUGi	North	0.97
+Zeus	Natus Vincere	0.97
+Lucky	G2	0.97
+Ethan	NRG	0.96
+frozen	MOUZ	0.96
+gla1ve	Astralis	0.95
+Lekr0	Ninjas in Pyjamas	0.94
+NEO	FaZe	0.92
+Stewie2K	Liquid	0.92
+REZ	Ninjas in Pyjamas	0.90
+nitr0	Liquid	0.90
+AdreN	AVANGAR	0.90
+GuardiaN	FaZe	0.88
+LUCAS1	MIBR	0.88
+TACO	MIBR	0.88
+karrigan	MOUZ	0.87
+FalleN	MIBR	0.86
+NBK-	Vitality	0.84
+fer	MIBR	0.81
+svyat	DreamEaters	0.81
+LETN1	CR4ZY	0.78
+Krad	DreamEaters	0.75
+speed4k	DreamEaters	0.74
+GeT_RiGhT	Ninjas in Pyjamas	0.74
+kinqie	DreamEaters	0.73
+Forester	DreamEaters	0.73
+Golden	Ninjas in Pyjamas	0.73
+zews	MIBR	0.59
+f0rest	Ninjas in Pyjamas	0.54

@@ -1,0 +1,80 @@
+flusha	fnatic	1.38
+olofmeister	fnatic	1.25
+device	TSM	1.25
+KRIMZ	fnatic	1.17
+TaZ	Virtus.pro	1.17
+USTILO	Immunity	1.15
+karrigan	TSM	1.14
+denis	MOUZ	1.14
+jdm64	CLG	1.13
+allu	Ninjas in Pyjamas	1.13
+SPUNJ	Renegades	1.13
+Xyp9x	TSM	1.12
+fer	Luminosity	1.12
+tarik	CLG	1.11
+f0rest	Ninjas in Pyjamas	1.11
+Snax	Virtus.pro	1.11
+markeloff	FlipSid3	1.10
+apEX	Envy	1.09
+Rickeh	Immunity	1.09
+coldzera	Luminosity	1.08
+FalleN	Luminosity	1.08
+byali	Virtus.pro	1.08
+dupreeh	TSM	1.08
+shox	Titan	1.04
+B1ad3	FlipSid3	1.04
+NEO	Virtus.pro	1.04
+Happy	Envy	1.02
+Skadoodle	Cloud9	1.01
+JW	fnatic	1.01
+ScreaM	Kinguin	1.01
+bondik	FlipSid3	1.00
+GeT_RiGhT	Ninjas in Pyjamas	0.99
+AZR	Renegades	0.99
+NBK-	Envy	0.99
+Hyper	eBettle	0.97
+kioShiMa	Envy	0.97
+GuardiaN	Natus Vincere	0.97
+nex	MOUZ	0.96
+cajunb	TSM	0.96
+Zeus	Natus Vincere	0.96
+peet	eBettle	0.95
+kennyS	Envy	0.94
+pashaBiceps	Virtus.pro	0.94
+shroud	Cloud9	0.93
+boltz	Luminosity	0.93
+Maikelele	Kinguin	0.93
+jks	Renegades	0.93
+Maniac	Titan	0.93
+Xizt	Ninjas in Pyjamas	0.92
+pronax	fnatic	0.91
+Edward	Natus Vincere	0.91
+dennis	Kinguin	0.90
+seized	Natus Vincere	0.90
+flamie	Natus Vincere	0.90
+gob b	MOUZ	0.88
+SmithZz	Titan	0.87
+rain	Kinguin	0.86
+chrisJ	MOUZ	0.86
+FNS	CLG	0.84
+GruBy	eBettle	0.84
+freakazoid	Cloud9	0.84
+hazed	CLG	0.81
+DavCost	FlipSid3	0.80
+emagine	Immunity	0.79
+RpK	Titan	0.78
+reltuC	CLG	0.78
+n0thing	Cloud9	0.76
+friberg	Ninjas in Pyjamas	0.75
+fox	Kinguin	0.74
+Spiidi	MOUZ	0.73
+yam	Renegades	0.73
+seang@res	Cloud9	0.73
+Ex6TenZ	Titan	0.72
+steel	Luminosity	0.68
+rallen	eBettle	0.64
+WorldEdit	FlipSid3	0.62
+Havoc	Renegades	0.62
+James	Immunity	0.61
+SnypeR	Immunity	0.51
+Furlan	eBettle	0.43

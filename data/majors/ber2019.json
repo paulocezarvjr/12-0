@@ -1,0 +1,1617 @@
+{
+  "id": "ber2019",
+  "event": "StarLadder Berlin Major 2019",
+  "year": 2019,
+  "url": "https://liquipedia.net/counterstrike/StarLadder/2019/Major",
+  "teams": [
+    {
+      "team": "Astralis",
+      "placement": "1st",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "gla1ve",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "igl",
+            "rifle"
+          ],
+          "r": 0.95,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "device",
+          "c": "DNK",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.26,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "dupreeh",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.1,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Magisk",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.15,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Xyp9x",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 1.14,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "AVANGAR",
+      "placement": "2nd",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "Jame",
+          "c": "KAZ",
+          "awp": true,
+          "roles": [
+            "awp",
+            "igl"
+          ],
+          "r": 1.14,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "buster",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.11,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "qikert",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.05,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "SANJI",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "support",
+            "entry"
+          ],
+          "r": 1,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "AdreN",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.9,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "NRG",
+      "placement": "3rd-4th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "stanislaw",
+          "c": "CAN",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 1.06,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "CeRq",
+          "c": "BGR",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.13,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Brehze",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.23,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Ethan",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.96,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "tarik",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "support"
+          ],
+          "r": 1.08,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "Renegades",
+      "placement": "3rd-4th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "AZR",
+          "c": "AUS",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.98,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "jkaem",
+          "c": "NOR",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 1.14,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Gratisfaction",
+          "c": "AUS",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "jks",
+          "c": "AUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.13,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Liazz",
+          "c": "AUS",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.1,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "ENCE",
+      "placement": "5th-8th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "Aleksib",
+          "c": "FIN",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 1.1,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "allu",
+          "c": "FIN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.27,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "sergej",
+          "c": "FIN",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.24,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Aerial",
+          "c": "FIN",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.99,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "xseveN",
+          "c": "FIN",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 0.97,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "Vitality",
+      "placement": "5th-8th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "ALEX",
+          "c": "GBR",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 1.05,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "apEX",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.09,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "NBK-",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 0.84,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "ZywOo",
+          "c": "FRA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.22,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "RpK",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "support"
+          ],
+          "r": 1,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "NAVI",
+      "placement": "5th-8th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "Zeus",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.97,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "s1mple",
+          "c": "UKR",
+          "awp": true,
+          "roles": [
+            "awp",
+            "rifle",
+            "star"
+          ],
+          "r": 1.19,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "flamie",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 1.11,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "electronic",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.31,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Boombl4",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.07,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "Team Liquid",
+      "placement": "5th-8th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "nitr0",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "igl",
+            "rifle"
+          ],
+          "r": 0.9,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "EliGE",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.23,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Twistzz",
+          "c": "CAN",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.09,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "NAF",
+          "c": "CAN",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 1.09,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Stewie2K",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "support"
+          ],
+          "r": 0.92,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "mousesports",
+      "placement": "9th-11th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "karrigan",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.87,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "ropz",
+          "c": "EST",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star",
+            "lurker"
+          ],
+          "r": 0.98,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "woxic",
+          "c": "TUR",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.04,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "chrisJ",
+          "c": "NLD",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "support"
+          ],
+          "r": 1.01,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "frozen",
+          "c": "SVK",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.96,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "CR4ZY",
+      "placement": "9th-11th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "nexa",
+          "c": "SRB",
+          "awp": false,
+          "roles": [
+            "igl",
+            "rifle"
+          ],
+          "r": 1.02,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "huNter-",
+          "c": "BIH",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.02,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "EspiranTo",
+          "c": "LTU",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.02,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "LETN1",
+          "c": "SRB",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 0.78,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "ottoNd",
+          "c": "FIN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 1.13,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "G2",
+      "placement": "9th-11th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "shox",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "igl",
+            "rifle",
+            "star"
+          ],
+          "r": 0.98,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "kennyS",
+          "c": "FRA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 0.99,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Lucky",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.97,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "JaCkz",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.97,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "AmaNEk",
+          "c": "FRA",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 1.07,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "MIBR",
+      "placement": "12th-14th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "FalleN",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "igl",
+            "star"
+          ],
+          "r": 0.86,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "fer",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 0.81,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "TACO",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support",
+            "entry"
+          ],
+          "r": 0.88,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "LUCAS1",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.88,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "zews",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "support",
+            "rifle"
+          ],
+          "r": 0.59,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "FaZe",
+      "placement": "12th-14th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "NiKo",
+          "c": "BIH",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "rain",
+          "c": "NOR",
+          "awp": false,
+          "roles": [
+            "entry",
+            "star"
+          ],
+          "r": 1.07,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "GuardiaN",
+          "c": "SVK",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 0.88,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "olofmeister",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 1.15,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "NEO",
+          "c": "POL",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 0.92,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "North",
+      "placement": "12th-14th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "valde",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.05,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Kjaerbye",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.27,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "aizy",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1.04,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "gade",
+          "c": "DNK",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 1.07,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "JUGi",
+          "c": "DNK",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 0.97,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "NiP",
+      "placement": "15th-16th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "f0rest",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star",
+            "lurker"
+          ],
+          "r": 0.54,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "GeT_RiGhT",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "lurker",
+            "rifle"
+          ],
+          "r": 0.74,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "REZ",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle",
+            "star"
+          ],
+          "r": 0.9,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Lekr0",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 0.94,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Golden",
+          "c": "SWE",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.73,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "DreamEaters",
+      "placement": "15th-16th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "speed4k",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp",
+            "rifle"
+          ],
+          "r": 0.74,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "kinqie",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.73,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Forester",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 0.73,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "Krad",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 0.75,
+          "est": false,
+          "src": "hltv"
+        },
+        {
+          "n": "svyat",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.81,
+          "est": false,
+          "src": "hltv"
+        }
+      ]
+    },
+    {
+      "team": "forZe",
+      "placement": "17th-19th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "facecrack",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Jerry",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.98,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "almazer",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "xsepower",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "support",
+            "lurker"
+          ],
+          "r": 0.92,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "FL1T",
+          "c": "RUS",
+          "awp": true,
+          "roles": [
+            "awp",
+            "rifle",
+            "star"
+          ],
+          "r": 1.1,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "Grayhound",
+      "placement": "17th-19th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "erkaSt",
+          "c": "MNG",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "dexter",
+          "c": "AUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "igl"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "DickStacy",
+          "c": "AUS",
+          "awp": true,
+          "roles": [
+            "awp",
+            "rifle"
+          ],
+          "r": 1.05,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "malta",
+          "c": "AUS",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.98,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Sico",
+          "c": "NZL",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "Syman",
+      "placement": "17th-19th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "neaLaN",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Ramz1kBO$$",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Perfecto",
+          "c": "RUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.05,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "t0rick",
+          "c": "KAZ",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Keoz",
+          "c": "FRA",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "FURIA",
+      "placement": "20th-22nd",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "arT",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "igl",
+            "entry"
+          ],
+          "r": 0.98,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "VINI",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "KSCERATO",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.1,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "yuurih",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "ableJ",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "support"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "HellRaisers",
+      "placement": "20th-22nd",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "ANGE1",
+          "c": "UKR",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "ISSAA",
+          "c": "JOR",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 1,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "oskar",
+          "c": "CZE",
+          "awp": true,
+          "roles": [
+            "awp",
+            "star"
+          ],
+          "r": 1.08,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "loWel",
+          "c": "ESP",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "nukkye",
+          "c": "LTU",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 0.92,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "Complexity",
+      "placement": "20th-22nd",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "dephh",
+          "c": "GBR",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.88,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "ShahZaM",
+          "c": "USA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "igl"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Rickeh",
+          "c": "AUS",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "SicK",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "oBo",
+          "c": "USA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 0.92,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "TYLOO",
+      "placement": "23rd-24th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "BnTeT",
+          "c": "IDN",
+          "awp": false,
+          "roles": [
+            "igl",
+            "rifle",
+            "star"
+          ],
+          "r": 1.05,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Freeman",
+          "c": "HKG",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.92,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Summer",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "support"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "somebody",
+          "c": "CHN",
+          "awp": true,
+          "roles": [
+            "awp"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "Attacker",
+          "c": "CHN",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "lurker"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    },
+    {
+      "team": "INTZ",
+      "placement": "23rd-24th",
+      "lowConfidence": false,
+      "players": [
+        {
+          "n": "kNgV-",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "star"
+          ],
+          "r": 1.05,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "chelo",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "rifle",
+            "entry"
+          ],
+          "r": 0.95,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "xand",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "igl",
+            "support"
+          ],
+          "r": 0.88,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "DeStiNy",
+          "c": "BRA",
+          "awp": true,
+          "roles": [
+            "awp",
+            "support"
+          ],
+          "r": 0.88,
+          "est": true,
+          "src": "estimate"
+        },
+        {
+          "n": "yeL",
+          "c": "BRA",
+          "awp": false,
+          "roles": [
+            "entry",
+            "rifle"
+          ],
+          "r": 0.9,
+          "est": true,
+          "src": "estimate"
+        }
+      ]
+    }
+  ]
+}

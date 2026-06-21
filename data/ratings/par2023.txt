@@ -1,0 +1,80 @@
+ZywOo	Vitality	1.39
+iM	GamerLegion	1.35
+Spinx	Vitality	1.24
+NAF	Liquid	1.24
+YEKINDAR	Liquid	1.20
+broky	FaZe	1.19
+stavn	HEROIC	1.19
+NiKo	G2	1.18
+headtr1ck	Ninjas in Pyjamas	1.18
+ropz	FaZe	1.18
+cadiaN	HEROIC	1.16
+BOROS	Monte	1.15
+NertZ	ENCE	1.15
+jks	G2	1.14
+Magisk	Vitality	1.14
+mezii	fnatic	1.13
+gxx-	Bad News Eagles	1.12
+juanflatroo	Bad News Eagles	1.12
+oSee	Liquid	1.11
+acoR	GamerLegion	1.11
+m0NESY	G2	1.11
+dupreeh	Vitality	1.11
+CYPHER	Into the Breach	1.11
+jkaem	Apeks	1.10
+CRUC1AL	Into the Breach	1.09
+Brollan	Ninjas in Pyjamas	1.08
+sdy	Monte	1.08
+Perfecto	Natus Vincere	1.07
+s1mple	Natus Vincere	1.07
+huNter-	G2	1.07
+nawwk	Apeks	1.07
+Woro2k	Monte	1.06
+apEX	Vitality	1.04
+jabbi	HEROIC	1.04
+siuhy	GamerLegion	1.04
+volt	Into the Breach	1.04
+nicoodoz	fnatic	1.04
+DemQQ	Monte	1.04
+electroNic	Natus Vincere	1.03
+rallen	Into the Breach	1.03
+Aleksib	Ninjas in Pyjamas	1.03
+REZ	Ninjas in Pyjamas	1.03
+nitr0	Liquid	1.03
+isak	GamerLegion	1.02
+kRaSnaL	Monte	1.01
+Twistzz	FaZe	1.00
+kyxsan	Apeks	1.00
+b1t	Natus Vincere	1.00
+sjuush	HEROIC	0.99
+TeSeS	HEROIC	0.99
+rain	FaZe	0.99
+Goofy	9INE	0.98
+KSCERATO	FURIA	0.97
+rigoN	Bad News Eagles	0.96
+roeJ	fnatic	0.94
+STYKO	Apeks	0.94
+sinnopsyy	Bad News Eagles	0.94
+KRIMZ	fnatic	0.94
+jL	Apeks	0.94
+EliGE	Liquid	0.93
+FASHR	fnatic	0.92
+dycha	ENCE	0.92
+Thomas	Into the Breach	0.91
+SENER1	Bad News Eagles	0.91
+k0nfig	Ninjas in Pyjamas	0.91
+SunPayus	ENCE	0.91
+arT	FURIA	0.88
+hades	9INE	0.87
+Keoz	GamerLegion	0.86
+Maden	ENCE	0.85
+karrigan	FaZe	0.81
+HooXi	G2	0.81
+Kylar	9INE	0.81
+yuurih	FURIA	0.79
+Snappi	ENCE	0.78
+npl	Natus Vincere	0.75
+mynio	9INE	0.74
+saffee	FURIA	0.69
+KEi	9INE	0.68
+drop	FURIA	0.61

@@ -1,0 +1,80 @@
+donk	Spirit	1.45
+ZywOo	Vitality	1.39
+NiKo	G2	1.26
+KSCERATO	FURIA	1.22
+ropz	FaZe	1.22
+m0NESY	G2	1.20
+Djoko	3DMAX	1.18
+iM	Natus Vincere	1.16
+magixx	Spirit	1.16
+Spinx	Vitality	1.16
+NAF	Liquid	1.16
+sl3nd	GamerLegion	1.15
+NertZ	HEROIC	1.15
+mzinho	The MongolZ	1.14
+sh1ro	Spirit	1.13
+nqz	paiN	1.13
+w0nderful	Natus Vincere	1.13
+flameZ	Vitality	1.12
+Ex3rcice	3DMAX	1.11
+b1t	Natus Vincere	1.10
+Jimpphat	MOUZ	1.10
+ultimate	Liquid	1.09
+Krimbo	BIG	1.08
+yuurih	FURIA	1.08
+rain	FaZe	1.08
+xertioN	MOUZ	1.07
+Brollan	MOUZ	1.06
+mezii	Vitality	1.06
+skullz	FURIA	1.06
+biguzera	paiN	1.06
+degster	HEROIC	1.05
+torzsi	MOUZ	1.05
+YEKINDAR	Liquid	1.05
+siuhy	MOUZ	1.04
+susp	Wildcard	1.04
+frozen	FaZe	1.04
+Snax	G2	1.04
+JDC	BIG	1.04
+broky	FaZe	1.03
+kauez	paiN	1.03
+910	The MongolZ	1.03
+Twistzz	Liquid	1.03
+huNter-	G2	1.01
+TeSeS	HEROIC	1.01
+kyxsan	HEROIC	1.00
+malbsMd	G2	1.00
+Senzu	The MongolZ	0.99
+zont1x	Spirit	0.99
+FalleN	FURIA	0.98
+chelo	FURIA	0.97
+FL4MUS	GamerLegion	0.96
+apEX	Vitality	0.96
+volt	GamerLegion	0.96
+JBa	Wildcard	0.96
+jks	Liquid	0.95
+phzy	Wildcard	0.93
+insani	MIBR	0.93
+sjuush	HEROIC	0.93
+snow	paiN	0.92
+lux	paiN	0.92
+saffee	MIBR	0.91
+chopper	Spirit	0.91
+Graviti	3DMAX	0.91
+Techno	The MongolZ	0.91
+bLitz	The MongolZ	0.91
+jL	Natus Vincere	0.90
+exit	MIBR	0.89
+Maka	3DMAX	0.89
+Tauson	GamerLegion	0.89
+Aleksib	Natus Vincere	0.88
+Sonic	Wildcard	0.86
+syrsoN	BIG	0.86
+ztr	GamerLegion	0.85
+Lucky	3DMAX	0.82
+karrigan	FaZe	0.80
+tabseN	BIG	0.75
+Lucaozy	MIBR	0.72
+drop	MIBR	0.71
+stanislaw	Wildcard	0.71
+rigoN	BIG	0.71

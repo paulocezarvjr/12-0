@@ -1,0 +1,80 @@
+swag	iBUYPOWER	1.43
+apEX	LDLC	1.38
+Dosia	HellRaisers	1.35
+kioShiMa	Epsilon	1.33
+kennyS	Titan	1.28
+Snax	Virtus.pro	1.27
+flusha	fnatic	1.24
+Edward	Natus Vincere	1.22
+shox	Epsilon	1.21
+olofmeister	fnatic	1.19
+Happy	LDLC	1.17
+cajunb	CPH Wolves	1.15
+device	Dignitas	1.14
+friberg	Ninjas in Pyjamas	1.14
+dupreeh	Dignitas	1.13
+Hiko	Cloud9	1.13
+pashaBiceps	Virtus.pro	1.11
+JW	fnatic	1.10
+KQLY	LDLC	1.09
+GeT_RiGhT	Ninjas in Pyjamas	1.06
+Havoc	Vox Eminor	1.06
+Xizt	Ninjas in Pyjamas	1.06
+KRIMZ	fnatic	1.04
+GuardiaN	Natus Vincere	1.04
+byali	Virtus.pro	1.04
+SEMPHIS	Cloud9	1.03
+Xyp9x	Dignitas	1.03
+AZR	Vox Eminor	1.03
+shroud	Cloud9	1.01
+FeTiSh	Dignitas	1.01
+TaZ	Virtus.pro	1.01
+aizy	Dignitas	1.01
+f0rest	Ninjas in Pyjamas	1.01
+flamie	dAT	0.99
+gla1ve	CPH Wolves	0.99
+seang@res	Cloud9	0.97
+Nico	CPH Wolves	0.97
+seized	Natus Vincere	0.96
+SmithZz	Titan	0.96
+Sf	Epsilon	0.96
+fxy0	Epsilon	0.95
+markeloff	HellRaisers	0.94
+starix	Natus Vincere	0.94
+karrigan	CPH Wolves	0.94
+GMX	Epsilon	0.93
+NEO	Virtus.pro	0.91
+ScreaM	Titan	0.90
+Ex6TenZ	Titan	0.90
+ANGE1	HellRaisers	0.85
+n0thing	Cloud9	0.85
+Maniac	LDLC	0.84
+Uzzziii	LDLC	0.84
+Zeus	Natus Vincere	0.82
+rain	London Conspiracy	0.81
+pronax	fnatic	0.80
+Pimp	CPH Wolves	0.78
+NBK-	Titan	0.74
+Ace	Wolves	0.73
+AZK	iBUYPOWER	0.72
+Fifflaren	Ninjas in Pyjamas	0.71
+AdreN	HellRaisers	0.71
+RiTz	Wolves	0.70
+kUcheR	HellRaisers	0.69
+DaZeD	iBUYPOWER	0.67
+steel	iBUYPOWER	0.67
+jks	Vox Eminor	0.66
+WorldEdit	dAT	0.65
+Skadoodle	iBUYPOWER	0.62
+RUBINO	London Conspiracy	0.62
+astaRR	Wolves	0.60
+RiX	Wolves	0.60
+B1ad3	dAT	0.59
+bondik	dAT	0.58
+ub1que	dAT	0.53
+Polly	London Conspiracy	0.46
+MithilF	Wolves	0.45
+SPUNJ	Vox Eminor	0.40
+Skurk	London Conspiracy	0.33
+prb	London Conspiracy	0.30
+topguN	Vox Eminor	0.30

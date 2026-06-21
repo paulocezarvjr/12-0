@@ -1,0 +1,80 @@
+rain	FaZe	1.24
+b1t	Natus Vincere	1.22
+Spinx	ENCE	1.21
+s1mple	Natus Vincere	1.20
+m0NESY	G2	1.19
+stavn	HEROIC	1.19
+ZywOo	Vitality	1.19
+fer	Imperial	1.18
+dycha	ENCE	1.16
+degster	Spirit	1.16
+faveN	BIG	1.16
+Ax1Le	Cloud9	1.15
+NiKo	G2	1.13
+broky	FaZe	1.13
+Brollan	Ninjas in Pyjamas	1.12
+syrsoN	BIG	1.12
+NAF	Liquid	1.12
+ropz	FaZe	1.12
+cadiaN	HEROIC	1.12
+electroNic	Natus Vincere	1.11
+Perfecto	Natus Vincere	1.11
+yuurih	FURIA	1.10
+Zyphon	Copenhagen Flames	1.09
+hampus	Ninjas in Pyjamas	1.08
+Patsi	Spirit	1.08
+S1ren	Spirit	1.07
+nicoodoz	Copenhagen Flames	1.06
+rigoN	Bad News Eagles	1.06
+Twistzz	FaZe	1.06
+REZ	Ninjas in Pyjamas	1.05
+magixx	Spirit	1.05
+YEKINDAR	Outsiders	1.05
+TeSeS	HEROIC	1.04
+sjuush	HEROIC	1.04
+Magisk	Vitality	1.03
+jabbi	Copenhagen Flames	1.03
+Qikert	Outsiders	1.02
+KSCERATO	FURIA	1.01
+sh1ro	Cloud9	1.01
+karrigan	FaZe	1.01
+tabseN	BIG	1.01
+VINI	Imperial	1.01
+buster	Outsiders	1.00
+chopper	Spirit	1.00
+huNter-	G2	1.00
+es3tag	Ninjas in Pyjamas	0.99
+Snappi	ENCE	0.99
+Maden	ENCE	0.99
+boltz	Imperial	0.99
+roeJ	Copenhagen Flames	0.98
+Jame	Outsiders	0.98
+FalleN	Imperial	0.98
+hades	ENCE	0.97
+JACKZ	G2	0.97
+saffee	FURIA	0.96
+Boombl4	Natus Vincere	0.96
+misutaaa	Vitality	0.96
+dupreeh	Vitality	0.95
+nafany	Cloud9	0.95
+HObbit	Cloud9	0.95
+interz	Cloud9	0.94
+Krimbo	BIG	0.93
+apEX	Vitality	0.93
+Plopski	Ninjas in Pyjamas	0.92
+FL1T	Outsiders	0.90
+arT	FURIA	0.88
+oSee	Liquid	0.87
+Aleksib	G2	0.86
+drop	FURIA	0.86
+juanflatroo	Bad News Eagles	0.86
+sinnopsyy	Bad News Eagles	0.86
+nitr0	Liquid	0.82
+tiziaN	BIG	0.82
+refrezh	HEROIC	0.82
+SENER1	Bad News Eagles	0.81
+EliGE	Liquid	0.80
+fnx	Imperial	0.79
+gxx-	Bad News Eagles	0.77
+HooXi	Copenhagen Flames	0.76
+shox	Liquid	0.64

@@ -1,0 +1,80 @@
+m0NESY	G2	1.42
+donk	Spirit	1.29
+Brollan	MOUZ	1.25
+torzsi	MOUZ	1.24
+Jimpphat	MOUZ	1.22
+jL	Natus Vincere	1.22
+biguzera	paiN	1.20
+MAJ3R	Eternal Fire	1.18
+XANTARES	Eternal Fire	1.17
+flameZ	Vitality	1.17
+sh1ro	Spirit	1.16
+Ax1Le	Cloud9	1.16
+electroNic	Cloud9	1.15
+w0nderful	Natus Vincere	1.14
+frozen	FaZe	1.14
+n0rb3r7	Virtus.pro	1.13
+Spinx	Vitality	1.11
+ZywOo	Vitality	1.11
+broky	FaZe	1.10
+Wicadia	Eternal Fire	1.09
+b1t	Natus Vincere	1.09
+hallzerk	Complexity	1.09
+KSCERATO	FURIA	1.08
+Queenix	ECSTATIC	1.08
+Jame	Virtus.pro	1.08
+sjuush	HEROIC	1.07
+nexa	G2	1.06
+bLitz	The MongolZ	1.05
+lux	paiN	1.05
+chopper	Spirit	1.04
+NiKo	G2	1.04
+EliGE	Complexity	1.04
+n1ssim	paiN	1.03
+zont1x	Spirit	1.03
+xertioN	MOUZ	1.02
+Perfecto	Cloud9	1.02
+HObbit	Cloud9	1.02
+huNter-	G2	1.02
+ropz	FaZe	1.02
+mzinho	The MongolZ	0.99
+mezii	Vitality	0.99
+HEN1	Imperial	0.99
+Patti	ECSTATIC	0.99
+Techno	The MongolZ	0.99
+mir	Virtus.pro	0.98
+Grim	Complexity	0.98
+magixx	Spirit	0.98
+VINI	Imperial	0.98
+Boombl4	Cloud9	0.98
+kyxsan	HEROIC	0.98
+Nodios	ECSTATIC	0.97
+decenty	Imperial	0.97
+karrigan	FaZe	0.97
+JT	Complexity	0.96
+nicoodoz	HEROIC	0.96
+Calyx	Eternal Fire	0.96
+FL1T	Virtus.pro	0.95
+noway	Imperial	0.95
+kraghen	ECSTATIC	0.95
+Senzu	The MongolZ	0.94
+woxic	Eternal Fire	0.93
+rain	FaZe	0.93
+910	The MongolZ	0.92
+apEX	Vitality	0.92
+FalleN	FURIA	0.91
+kauez	paiN	0.90
+floppy	Complexity	0.89
+HooXi	G2	0.89
+nqz	paiN	0.88
+fame	Virtus.pro	0.87
+NertZ	HEROIC	0.85
+felps	Imperial	0.84
+TeSeS	HEROIC	0.84
+siuhy	MOUZ	0.83
+salazar	ECSTATIC	0.83
+Aleksib	Natus Vincere	0.82
+yuurih	FURIA	0.82
+arT	FURIA	0.82
+iM	Natus Vincere	0.81
+chelo	FURIA	0.69

@@ -1,0 +1,80 @@
+pashaBiceps	Virtus.pro	1.38
+GeT_RiGhT	Ninjas in Pyjamas	1.33
+byali	Virtus.pro	1.31
+cajunb	Dignitas	1.27
+shox	Titan	1.26
+znajder	fnatic	1.25
+flusha	fnatic	1.25
+Snax	Virtus.pro	1.20
+Dosia	HellRaisers	1.18
+NEO	Virtus.pro	1.16
+f0rest	Ninjas in Pyjamas	1.16
+Xizt	Ninjas in Pyjamas	1.15
+gla1ve	3DMAX	1.15
+Xyp9x	Dignitas	1.15
+swag	Complexity	1.13
+ScreaM	Titan	1.13
+kUcheR	HellRaisers	1.12
+dennis	LGB	1.12
+topguN	Vox Eminor	1.11
+device	Dignitas	1.10
+apEX	LDLC	1.07
+starix	Natus Vincere	1.05
+KRIMZ	LGB	1.04
+dupreeh	Dignitas	1.04
+LEGIJA	MOUZ	1.04
+kennyS	Clan-Mystik	1.03
+DaZeD	iBUYPOWER	1.03
+Maniac	LDLC	1.02
+karrigan	Reason	1.02
+smF	Reason	1.01
+JW	fnatic	1.01
+friberg	Ninjas in Pyjamas	1.01
+Happy	LDLC	1.01
+EXR	Reason	1.00
+Zeus	Natus Vincere	0.99
+olofmeister	LGB	0.99
+kioShiMa	Clan-Mystik	0.97
+Fifflaren	Ninjas in Pyjamas	0.96
+Edward	Natus Vincere	0.96
+markeloff	HellRaisers	0.95
+AZR	Vox Eminor	0.93
+twist	LGB	0.92
+SnypeR	Vox Eminor	0.92
+raalz	3DMAX	0.92
+seized	Natus Vincere	0.91
+MSL	3DMAX	0.91
+Pimp	3DMAX	0.91
+adreN	iBUYPOWER	0.89
+SmithZz	Titan	0.88
+NBK-	Titan	0.88
+Friis	Reason	0.87
+GuardiaN	Natus Vincere	0.86
+cype	LGB	0.86
+TaZ	Virtus.pro	0.85
+Havoc	Vox Eminor	0.85
+n0thing	Complexity	0.84
+Hiko	Complexity	0.84
+SEMPHIS	Complexity	0.84
+anger	iBUYPOWER	0.83
+ANGE1	HellRaisers	0.82
+AZK	iBUYPOWER	0.82
+Skadoodle	iBUYPOWER	0.81
+seang@res	Complexity	0.80
+GMX	Clan-Mystik	0.80
+Sf	Clan-Mystik	0.80
+aizy	3DMAX	0.80
+chrisJ	MOUZ	0.79
+pronax	fnatic	0.78
+Ex6TenZ	Titan	0.77
+FeTiSh	Dignitas	0.77
+Devilwalk	fnatic	0.76
+AdreN	HellRaisers	0.75
+HaRts	Clan-Mystik	0.75
+cadiaN	MOUZ	0.72
+KQLY	LDLC	0.69
+LOMME	Reason	0.67
+Uzzziii	LDLC	0.65
+tiziaN	MOUZ	0.54
+tabseN	MOUZ	0.46
+SPUNJ	Vox Eminor	0.44

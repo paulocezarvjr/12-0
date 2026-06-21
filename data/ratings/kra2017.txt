@@ -1,0 +1,80 @@
+s1mple	Natus Vincere	1.43
+coldzera	SK	1.40
+tabseN	BIG	1.30
+AdreN	Gambit	1.26
+suNny	PENTA	1.21
+dupreeh	Astralis	1.20
+nex	BIG	1.19
+device	Astralis	1.18
+k0nfig	North	1.17
+electroNic	FlipSid3	1.16
+fer	SK	1.15
+cajunb	North	1.15
+mou	Gambit	1.14
+rain	FaZe	1.14
+HObbit	Gambit	1.13
+kNgV-	Immortals	1.12
+HEN1	Immortals	1.12
+NiKo	FaZe	1.12
+autimatic	Cloud9	1.12
+byali	Virtus.pro	1.12
+Stewie2K	Cloud9	1.12
+pashaBiceps	Virtus.pro	1.11
+Skadoodle	Cloud9	1.11
+LUCAS1	Immortals	1.11
+zehN	PENTA	1.10
+denis	MOUZ	1.10
+wayLander	FlipSid3	1.10
+NEO	Virtus.pro	1.08
+boltz	Immortals	1.08
+steel	Immortals	1.08
+flamie	Natus Vincere	1.07
+JW	fnatic	1.07
+Kjaerbye	Astralis	1.06
+oskar	MOUZ	1.06
+Snax	Virtus.pro	1.06
+TaZ	Virtus.pro	1.05
+felps	SK	1.04
+Zeus	Gambit	1.04
+gla1ve	Astralis	1.04
+GuardiaN	Natus Vincere	1.03
+Xyp9x	Astralis	1.03
+LEGIJA	BIG	1.03
+olofmeister	fnatic	1.02
+aizy	North	1.02
+HS	PENTA	1.02
+FalleN	SK	1.01
+ropz	MOUZ	1.01
+Dosia	Gambit	1.00
+keev	BIG	0.99
+kRYSTAL	PENTA	0.99
+markeloff	FlipSid3	0.98
+loWel	MOUZ	0.98
+Magisk	North	0.98
+flusha	fnatic	0.98
+mir	Vega Squadron	0.98
+n0thing	Cloud9	0.97
+Edward	Natus Vincere	0.97
+kennyS	G2	0.95
+allu	FaZe	0.95
+KRIMZ	fnatic	0.95
+shox	G2	0.94
+dennis	fnatic	0.94
+NBK-	G2	0.94
+WorldEdit	FlipSid3	0.93
+chrisJ	MOUZ	0.93
+gob b	BIG	0.91
+apEX	G2	0.90
+bodyy	G2	0.84
+innocent	PENTA	0.84
+TACO	SK	0.83
+seized	Natus Vincere	0.81
+keshandr	Vega Squadron	0.81
+shroud	Cloud9	0.80
+MSL	North	0.75
+jR	Vega Squadron	0.68
+chopper	Vega Squadron	0.68
+B1ad3	FlipSid3	0.67
+karrigan	FaZe	0.62
+kioShiMa	FaZe	0.61
+hutji	Vega Squadron	0.58

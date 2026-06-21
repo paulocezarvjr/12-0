@@ -1,0 +1,12 @@
+{
+  "name": "hltv-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Headless-browser scraper for HLTV per-event player ratings (Cloudflare-protected).",
+  "dependencies": {
+    "puppeteer-core": "^23.11.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.4.4"
+  }
+}

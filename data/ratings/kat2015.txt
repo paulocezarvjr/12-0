@@ -1,0 +1,80 @@
+olofmeister	fnatic	1.31
+rain	LGB	1.27
+NEO	Virtus.pro	1.27
+seized	Natus Vincere	1.24
+GeT_RiGhT	Ninjas in Pyjamas	1.20
+GuardiaN	Natus Vincere	1.19
+Snax	Virtus.pro	1.16
+shox	Envy	1.13
+cajunb	TSM	1.13
+flusha	fnatic	1.12
+KRIMZ	fnatic	1.11
+boltz	Keyd Stars	1.10
+SmithZz	Envy	1.09
+device	TSM	1.07
+kRYSTAL	PENTA	1.06
+NBK-	Envy	1.05
+byali	Virtus.pro	1.04
+dupreeh	TSM	1.03
+pashaBiceps	Virtus.pro	1.03
+Xizt	Ninjas in Pyjamas	1.03
+friberg	Ninjas in Pyjamas	1.02
+f0rest	Ninjas in Pyjamas	1.01
+Edward	Natus Vincere	1.01
+Happy	Envy	1.00
+allu	Ninjas in Pyjamas	0.99
+hazed	CLG	0.99
+FalleN	Keyd Stars	0.99
+pronax	fnatic	0.98
+shroud	Cloud9	0.98
+Xyp9x	TSM	0.98
+JW	fnatic	0.98
+SEMPHIS	Cloud9	0.97
+karrigan	TSM	0.97
+AdreN	HellRaisers	0.97
+TaZ	Virtus.pro	0.96
+topguN	Vox Eminor	0.96
+tarik	CLG	0.95
+denis	PENTA	0.95
+nex	PENTA	0.95
+fer	Keyd Stars	0.94
+flamie	HellRaisers	0.93
+Zeus	Natus Vincere	0.93
+RUBINO	LGB	0.92
+n0thing	Cloud9	0.92
+disturbed	3DMAX	0.92
+kennyS	Titan	0.92
+kioShiMa	Envy	0.92
+Havoc	Vox Eminor	0.91
+jkaem	LGB	0.91
+zEVES	LGB	0.89
+Dosia	HellRaisers	0.88
+kUcheR	HellRaisers	0.87
+Troubley	PENTA	0.87
+Maniac	Titan	0.86
+RpK	Titan	0.86
+FNS	CLG	0.85
+AZR	Vox Eminor	0.85
+ShahZaM	Cloud9	0.85
+steel	Keyd Stars	0.83
+KHRN	3DMAX	0.82
+Spiidi	PENTA	0.81
+ptr	CLG	0.80
+bondik	FlipSid3	0.80
+seang@res	Cloud9	0.79
+Polly	LGB	0.78
+reltuC	CLG	0.78
+DavCost	FlipSid3	0.77
+xartE	3DMAX	0.75
+starix	Natus Vincere	0.74
+ANGE1	HellRaisers	0.74
+jks	Vox Eminor	0.70
+zqkS	Keyd Stars	0.68
+Ex6TenZ	Titan	0.64
+apEX	Titan	0.64
+stonde	3DMAX	0.64
+SPUNJ	Vox Eminor	0.64
+natu	3DMAX	0.60
+WorldEdit	FlipSid3	0.44
+markeloff	FlipSid3	0.43
+B1ad3	FlipSid3	0.33

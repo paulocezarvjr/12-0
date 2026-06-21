@@ -1,0 +1,80 @@
+flamie	Natus Vincere	1.39
+KRIMZ	fnatic	1.29
+Dosia	Gambit	1.25
+NiKo	FaZe	1.25
+GuardiaN	FaZe	1.24
+oskar	MOUZ	1.23
+s1mple	Natus Vincere	1.23
+tarik	Cloud9	1.22
+olofmeister	FaZe	1.20
+autimatic	Cloud9	1.20
+shox	G2	1.19
+suNny	MOUZ	1.18
+Lekr0	fnatic	1.16
+ropz	MOUZ	1.16
+RUSH	Cloud9	1.16
+NBK-	G2	1.15
+Skadoodle	Cloud9	1.15
+rain	FaZe	1.15
+Stewie2K	Cloud9	1.14
+flusha	fnatic	1.14
+paz	Space Soldiers	1.13
+electroNic	Natus Vincere	1.13
+coldzera	SK	1.13
+kennyS	G2	1.13
+EliGE	Liquid	1.12
+Edward	Natus Vincere	1.12
+Twistzz	Liquid	1.12
+bodyy	G2	1.11
+AdreN	Gambit	1.11
+MAJ3R	Space Soldiers	1.09
+Calyx	Space Soldiers	1.09
+XANTARES	Space Soldiers	1.08
+waterfaLLZ	Quantum Bellator Fire	1.07
+tabseN	BIG	1.06
+JW	fnatic	1.05
+dupreeh	Astralis	1.02
+fer	SK	1.02
+FalleN	SK	1.02
+nitr0	Liquid	1.02
+Kvik	Quantum Bellator Fire	1.00
+valde	North	0.99
+TACO	SK	0.99
+jdm64	Liquid	0.98
+aizy	North	0.98
+STYKO	MOUZ	0.97
+felps	SK	0.96
+k0nfig	North	0.96
+hutji	Vega Squadron	0.95
+apEX	G2	0.93
+Golden	fnatic	0.93
+Boombl4	Quantum Bellator Fire	0.92
+mou	Gambit	0.91
+device	Astralis	0.91
+chrisJ	MOUZ	0.91
+Zeus	Natus Vincere	0.90
+Xyp9x	Astralis	0.90
+Kjaerbye	Astralis	0.89
+karrigan	FaZe	0.89
+MSL	North	0.88
+jmqa	Quantum Bellator Fire	0.88
+HObbit	Gambit	0.88
+balblna	Quantum Bellator Fire	0.87
+chopper	Vega Squadron	0.87
+LEGIJA	BIG	0.82
+keev	BIG	0.80
+keshandr	Vega Squadron	0.79
+jR	Vega Squadron	0.79
+gla1ve	Astralis	0.78
+nex	BIG	0.77
+ngiN	Space Soldiers	0.77
+fitch	Gambit	0.76
+Snax	Virtus.pro	0.76
+mir	Vega Squadron	0.75
+cajunb	North	0.75
+zews	Liquid	0.73
+gob b	BIG	0.71
+NEO	Virtus.pro	0.71
+byali	Virtus.pro	0.69
+TaZ	Virtus.pro	0.67
+pashaBiceps	Virtus.pro	0.66

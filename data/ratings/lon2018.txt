@@ -1,0 +1,80 @@
+electroNic	Natus Vincere	1.36
+s1mple	Natus Vincere	1.34
+device	Astralis	1.26
+Magisk	Astralis	1.25
+olofmeister	FaZe	1.25
+dupreeh	Astralis	1.24
+smooya	BIG	1.24
+NAF	Liquid	1.24
+Twistzz	Liquid	1.19
+NiKo	FaZe	1.19
+flamie	Natus Vincere	1.18
+coldzera	MIBR	1.18
+EliGE	Liquid	1.17
+FalleN	MIBR	1.16
+woxic	HellRaisers	1.16
+gla1ve	Astralis	1.16
+Xyp9x	Astralis	1.15
+shox	G2	1.15
+stanislaw	Complexity	1.15
+KRIMZ	fnatic	1.15
+ISSAA	HellRaisers	1.14
+suNny	MOUZ	1.13
+autimatic	Cloud9	1.13
+f0rest	Ninjas in Pyjamas	1.10
+tabseN	BIG	1.09
+GeT_RiGhT	Ninjas in Pyjamas	1.09
+kennyS	G2	1.09
+fer	MIBR	1.07
+bondik	HellRaisers	1.07
+tarik	MIBR	1.07
+GuardiaN	FaZe	1.07
+nitr0	Liquid	1.05
+BnTeT	TYLOO	1.05
+Edward	Natus Vincere	1.04
+nex	BIG	1.04
+ShahZaM	Complexity	1.04
+tonyblack	Vega Squadron	1.04
+rain	FaZe	1.04
+ANDROID	Complexity	1.03
+Skadoodle	Cloud9	1.02
+yay	Complexity	1.01
+Kvik	Winstrike	1.00
+dephh	Complexity	0.98
+jR	Vega Squadron	0.98
+STYKO	Cloud9	0.98
+DD	TYLOO	0.97
+Stewie2K	MIBR	0.97
+xccurate	TYLOO	0.96
+draken	fnatic	0.96
+JW	fnatic	0.96
+Zeus	Natus Vincere	0.95
+Golden	Cloud9	0.95
+jmqa	Winstrike	0.95
+RUSH	Cloud9	0.94
+chrisJ	MOUZ	0.93
+karrigan	FaZe	0.93
+tiziaN	BIG	0.93
+bodyy	G2	0.93
+gob b	BIG	0.92
+Boombl4	Winstrike	0.91
+DeadFox	HellRaisers	0.89
+REZ	Ninjas in Pyjamas	0.89
+chopper	Vega Squadron	0.88
+dennis	Ninjas in Pyjamas	0.87
+oskar	MOUZ	0.87
+ANGE1	HellRaisers	0.87
+crush	Vega Squadron	0.86
+Xizt	fnatic	0.86
+Lekr0	Ninjas in Pyjamas	0.85
+TACO	Liquid	0.84
+ropz	MOUZ	0.84
+SmithZz	G2	0.83
+flusha	fnatic	0.82
+balblna	Winstrike	0.82
+waterfaLLZ	Winstrike	0.81
+hutji	Vega Squadron	0.81
+Ex6TenZ	G2	0.78
+Snax	MOUZ	0.69
+somebody	TYLOO	0.67
+captainMo	TYLOO	0.65
