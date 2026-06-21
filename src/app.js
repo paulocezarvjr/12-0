@@ -19,6 +19,7 @@ const App = (() => {
     drawCount: 0,
     usedSquadIds: [],
     results: [],
+    broadcast: null,
     reveal: 0,
     copied: false,
     pendingPick: null,
@@ -115,8 +116,9 @@ const App = (() => {
   // ---- simulation -------------------------------------------------------
   function runMajor() {
     const results = Engine.computeResults(state.roster);
+    const broadcast = Engine.buildBroadcast(results);
     clearTimeout(revealTimer);
-    setState({ screen: 'sim', results, reveal: 0, copied: false }, scheduleReveal);
+    setState({ screen: 'sim', results, broadcast, reveal: 0, copied: false }, scheduleReveal);
   }
 
   function scheduleReveal() {
