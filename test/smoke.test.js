@@ -115,6 +115,22 @@ for (const s of SETUPS) {
   for (let i = 0; i < 40; i++) { playthrough(s.id); passed++; }
 }
 
+// reroll is capped at one per pick
+{
+  domReady();
+  click('start');
+  click('selectSetup', SETUPS[0].id);
+  click('confirm');
+  let acts = parseActions(root.innerHTML);
+  const rr = first(acts, 'rerollTeam') || first(acts, 'rerollYear');
+  if (rr) {
+    click(rr.action);
+    acts = parseActions(root.innerHTML);
+    assert.ok(!has(acts, 'rerollTeam') && !has(acts, 'rerollYear'), 'after one reroll, no reroll button remains for this pick');
+    passed++;
+  }
+}
+
 // 2) engine invariants over many simulated runs (Swiss + playoffs format)
 const mockRoster = SETUPS[0].roles.map((role) => ({ role, player: { n: 'x', c: 'XX', r: 1.2, awp: true, roles: ['awp', 'igl', 'entry', 'support', 'lurker', 'rifle', 'star'], team: 'T', yr: 2020 } }));
 let champions = 0, championWithLoss = 0, perfects = 0, eliminations = 0;
@@ -177,10 +193,10 @@ console.log('  champions=' + champions + ' (perfect=' + perfects + ', with-loss=
   passed += 201;
 }
 
-// 3) opponents are drawn from the pool, which must cover the longest run
+// 3) opponents are real squads shown with their era year (e.g. "NAVI '21")
 const r = Engine.computeResults(mockRoster);
-assert.ok(r.every((m) => OPP_POOL.includes(m.opp)), 'every opponent comes from the pool');
-assert.ok(OPP_POOL.length >= 18, 'opponent pool covers the longest possible run (18)');
+assert.ok(r.every((m) => /'\d{2}$/.test(m.opp)), 'each opponent shows its year, got: ' + r.map((m) => m.opp).join(', '));
+assert.ok(SQUADS.length >= 18, 'enough squads to draw a full run of opponents');
 passed++;
 
 console.log('OK — ' + passed + ' assertions/playthroughs passed');

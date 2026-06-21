@@ -129,9 +129,13 @@ const Engine = (() => {
    */
   function computeResults(roster) {
     const myStr = rosterStrength(roster);
-    const names = shuffle(OPP_POOL);
+    // opponents are real historic squads, shown with their era year (e.g. "NAVI '21")
+    const opps = shuffle(SQUADS);
     let ni = 0;
-    const nextOpp = () => names[ni++ % names.length];
+    const nextOpp = () => {
+      const s = opps[ni++ % opps.length];
+      return s.team + " '" + String(s.yr).slice(2);
+    };
     const matches = [];
 
     const playMatch = (phase, baseOpp, bo) => {

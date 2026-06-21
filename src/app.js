@@ -22,6 +22,7 @@ const App = (() => {
     reveal: 0,
     copied: false,
     pendingPick: null,
+    rerollUsed: false,
     hideRatings: false,
   });
 
@@ -68,12 +69,13 @@ const App = (() => {
       usedSquadIds: [...s.usedSquadIds, sq.id],
       drawCount: s.drawCount + 1,
       pendingPick: null,
+      rerollUsed: false, // fresh pick -> reroll available again
     }));
   }
 
   function reroll(axis) {
     const draw = state.draw;
-    if (!draw) return;
+    if (!draw || state.rerollUsed) return; // one reroll per pick
     const sq = Engine.pickReroll(state.roster, draw, state.usedSquadIds, axis);
     if (!sq) return;
     setState((s) => ({
@@ -81,6 +83,7 @@ const App = (() => {
       usedSquadIds: s.usedSquadIds.includes(sq.id) ? s.usedSquadIds : [...s.usedSquadIds, sq.id],
       drawCount: s.drawCount + 1,
       pendingPick: null,
+      rerollUsed: true, // reroll spent for this pick
     }));
   }
 
