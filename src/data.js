@@ -39,11 +39,11 @@ const SETUPS = [
     { label: 'Entry Fragger', code: 'ENT', tag: 'entry' },
     { label: 'Support', code: 'SUP', tag: 'support' } ] },
   { id: 'firepower', name: 'Firepower', sub: 'Max aim · pure fragging', roles: [
-    { label: 'Star Rifler', code: 'STR', tag: 'star' },
+    { label: 'Rifler', code: 'RIF', tag: 'rifle' },
     { label: 'Entry Fragger', code: 'ENT', tag: 'entry' },
     { label: 'AWPer', code: 'AWP', tag: 'awp' },
     { label: 'Lurker', code: 'LRK', tag: 'lurker' },
-    { label: 'Support-IGL', code: 'SIG', tag: 'igl' } ] },
+    { label: 'Support', code: 'SUP', tag: 'support' } ] },
   { id: 'rifle', name: 'Rifle-heavy', sub: 'No primary AWP · aggression', roles: [
     { label: 'Entry Fragger', code: 'ENT', tag: 'entry' },
     { label: 'In-Game Leader', code: 'IGL', tag: 'igl' },
